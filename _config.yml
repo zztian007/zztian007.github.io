@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Jian Tang"
+title                    : "Jian Tang (唐健)"
 description              : "This is the homepage of Ph.D. Tang."
 repository               : "S-Kee/S-Kee.github.io"
 google_scholar_stats_use_cdn : false
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Tang Jian"
+  name             : "Tang Jian (唐健)"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Huazhong university of science and technology"
   location         : "Wuhan, China"
