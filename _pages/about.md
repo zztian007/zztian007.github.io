@@ -25,6 +25,9 @@ My research interest includes Magnetic flux leakage (MFL)
 Nondestructive testing (NDT). I have published more than 20 papers. 
  <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
+# 📖 Educations 
+- *2016.06 - 2022.12*, <img src="/images/HUST_logo.svg" width="22pt"> School of Mechanical Science and Engineering, Huazhong University of Science and Technology, Wuhan China. 
+- *2012.09 - 2016.06*, <img src="/images/SCU_logo.svg" width="20pt"> School of Manufacturing Science and Engineering, Sichuan University, Chengdu China. 
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -89,9 +92,6 @@ Hang Yang, Shenghan Wang, **Jian Tang**, Yihua Kang. Automatic eddy current test
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📖 Educations 
-- *2016.06 - 2022.12*, <img src="/images/HUST_logo.svg" width="20pt"> Huazhong University of Science and Technology, School of Mechanical Science and Engineering, Wuhan China. 
-- *2015.09 - 2019.06*, <img src="/images/SCU_logo.svg" width="20pt"> Sichuan University, School of Mechanical Engineering, Chengdu China. 
 
 # 💬 Conferences
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
