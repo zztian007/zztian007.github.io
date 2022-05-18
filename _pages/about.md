@@ -17,9 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I work at Sea AI Lab  as a research scientist now, leading the audio team and doing some fundamental audio-related research. We are hiring researchers and engineers to work on TTS, music generation, speech translation and audio-driven talking face generation. If interested, feel free to email me at renyi@sea.com.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total  <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+I graduated from School of Mechanical Science and Engineering,  Huazhong University of Science and Technology, Wuhan China.  (华中科技大学 机械科学与工程学院) with a doctor’s degree, advised by Yihua Kang (康宜华) and from School of Mechanical Engineering, Sichuan University,  Chengdu China (四川大学 机械工程学院) with a bachelor’s degree. 
+
+My research interest includes Magnetic flux leakage (MFL)
+Nondestructive testing (NDT). I have published more than 20 papers. 
+ <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 
 # 🔥 News
