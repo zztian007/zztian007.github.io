@@ -23,7 +23,7 @@ My research interest includes Magnetic flux leakage (MFL)
 Nondestructive testing (NDT). I have published more than 15 papers. 
  <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
-# 📖 Educations 
+# 🎓 Educations 
 - *2016.06 - 2022.12*, <a href="http://english.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> School of Mechanical Science and Engineering, Huazhong University of Science and Technology, Wuhan China. 
 - *2012.09 - 2016.06*, <a href="http://en.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> School of Manufacturing Science and Engineering, Sichuan University, Chengdu China. 
 
@@ -87,12 +87,12 @@ Hang Yang, Shenghan Wang, **Jian Tang**, Yihua Kang. Automatic eddy current test
 
 
 
-# 🎖 Honors and Awards
+# 🏅 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 
-# 💬 Conferences
+# 🏛️ Conferences
 - *2021.10.08*, National Seminar on Electromagnetic Nondestructive Testing Technology and the 14th Plenary Session of the 11th Session of the Electromagnetic Professional Technology Conference of China, Xian China, Oral  
 *2021.10.08*, 全国电磁无损检测技术研讨会 暨 电磁专业技术大会第十一届第四次全体会议, 西安 陕西, 受邀报告
 - *2019.09.15*, The 19th International Symposium on Applied Electromagnetics and Mechanics (ISEM 2019), Nanjing China, Poster.
