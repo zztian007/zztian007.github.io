@@ -82,12 +82,12 @@ Hang Yang, Shenghan Wang, **Jian Tang**, Yihua Kang. Automatic eddy current test
 
 
 # 🏅 Honors and Awards
-- *2015.11* 获得 第十四届“挑战杯”全国大学生课外学术科技作品竞赛 **一等奖**  
-*2015.11*  Win the **1st Prize** in the 14th "Challenge Cup" National Undergraduate Curricular Academic Science and Technology Works Competition
-- *2015.06* 获得 第十三届“挑战杯”全国大学生课外学术科技作品竞赛 **一等奖** [[新闻]](https://www.sc.gov.cn/10462/10778/10876/2015/7/1/10341562.shtml)  
-*2015.06* Win the **1st Prize** in the 13rd  "Challenge Cup" Sichuan Undergraduate Curricular Academic Science and Technology Works Competition [[Newsreport]](https://www.sc.gov.cn/10462/10778/10876/2015/7/1/10341562.shtml)
-- *2014.12* 获得第四届全国大学生工程训练综合能力竞赛（四川赛区） **一等奖**  
-*2014.12* Win the **1st Prize** in the 4th National Undergraduate Engineering Training Integration Ability Competition (Sichuan Division)
+- *2015.11* 获得 第十四届“挑战杯”全国大学生课外学术科技作品竞赛 `一等奖`  
+*2015.11*  Win the `1st Prize` in the 14th "Challenge Cup" National Undergraduate Curricular Academic Science and Technology Works Competition
+- *2015.06* 获得 第十三届“挑战杯”全国大学生课外学术科技作品竞赛 `一等奖` [[新闻]](https://www.sc.gov.cn/10462/10778/10876/2015/7/1/10341562.shtml)  
+*2015.06* Win the `1st Prize` in the 13rd  "Challenge Cup" Sichuan Undergraduate Curricular Academic Science and Technology Works Competition [[Newsreport]](https://www.sc.gov.cn/10462/10778/10876/2015/7/1/10341562.shtml)
+- *2014.12* 获得第四届全国大学生工程训练综合能力竞赛（四川赛区） `一等奖`  
+*2014.12* Win the `1st Prize` in the 4th National Undergraduate Engineering Training Integration Ability Competition (Sichuan Division)
 
 
 # 🏛️ Conferences
