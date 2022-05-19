@@ -24,8 +24,8 @@ Nondestructive testing (NDT). I have published more than 15 papers.
  <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 # 📖 Educations 
-- *2016.06 - 2022.12*, <img src="/images/HUST_logo.svg" width="23pt"> School of Mechanical Science and Engineering, Huazhong University of Science and Technology, Wuhan China. 
-- *2012.09 - 2016.06*, <img src="/images/SCU_logo.svg" width="20pt"> School of Manufacturing Science and Engineering, Sichuan University, Chengdu China. 
+- *2016.06 - 2022.12*, <a href="http://english.hust.edu.cn/"><img src="/images/HUST_logo.svg" width="23pt"></a> School of Mechanical Science and Engineering, Huazhong University of Science and Technology, Wuhan China. 
+- *2012.09 - 2016.06*, <a href="http://en.scu.edu.cn/"><img src="/images/SCU_logo.svg" width="20pt"></a> School of Manufacturing Science and Engineering, Sichuan University, Chengdu China. 
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
