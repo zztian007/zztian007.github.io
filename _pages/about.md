@@ -17,14 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I graduated from School of Mechanical Science and Engineering,  Huazhong University of Science and Technology, Wuhan China.  (华中科技大学 机械科学与工程学院) with a doctor’s degree, advised by Yihua Kang (康宜华) and from School of Mechanical Engineering, Sichuan University,  Chengdu China (四川大学 机械工程学院) with a bachelor’s degree. 
+I graduated from School of Mechanical Science and Engineering,  Huazhong University of Science and Technology (华中科技大学 机械科学与工程学院) , Wuhan China. with a doctor’s degree, advised by Yihua Kang (康宜华) and from School of Mechanical Engineering, Sichuan University (四川大学 机械工程学院) ,  Chengdu China with a bachelor’s degree. 
 
 My research interest includes Magnetic flux leakage (MFL)
-Nondestructive testing (NDT). I have published more than 20 papers. 
+Nondestructive testing (NDT). I have published more than 15 papers. 
  <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 # 📖 Educations 
-- *2016.06 - 2022.12*, <img src="/images/HUST_logo.svg" width="22pt"> School of Mechanical Science and Engineering, Huazhong University of Science and Technology, Wuhan China. 
+- *2016.06 - 2022.12*, <img src="/images/HUST_logo.svg" width="23pt"> School of Mechanical Science and Engineering, Huazhong University of Science and Technology, Wuhan China. 
 - *2012.09 - 2016.06*, <img src="/images/SCU_logo.svg" width="20pt"> School of Manufacturing Science and Engineering, Sichuan University, Chengdu China. 
 
 # 🔥 News
@@ -35,9 +35,10 @@ Nondestructive testing (NDT). I have published more than 20 papers.
 
 ### English 
 ---
-1.	**Jian Tang**, Rongbiao Wang, Bocheng Liu, Yihua Kang. A novel magnetic flux leakage method based on the ferromagnetic lift-off layer with through groove *Sensors and Actuators A: Physical*. 2021: 113091. (IF:3.407；JCR分区:Q2) [[HTML]](https://dx.doi.org/10.1016/j.sna.2021.113091) [[Preview]](https://github.com/S-Kee/S-Kee.github.io/blob/main/pdf/TangJ-2021-A%20novel%20magnetic%20flux%20leakage%20method%20based%20on%20the%20ferromagnetic%20lift-off%20layer.pdf) [[PDF]](/pdf/TangJ-2021-A%20novel%20magnetic%20flux%20leakage%20method%20based%20on%20the%20ferromagnetic%20lift-off%20layer.pdf)
 
 1.	**Jian Tang**, Rongbiao Wang, Gongzhe Qiu, Yu Hu, Yihua Kang. Mechanism of magnetic flux leakage detection method based on the slotted ferromagnetic lift-off layer. *Sensors*, 2022, 22(9): 3587. (IF:3.576；JCR分区:Q1) [[HTML]](https://dx.doi.org/10.3390/s22093587) [[Preview]](https://github.com/S-Kee/S-Kee.github.io/blob/main/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf) [[PDF]](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
+
+1.	**Jian Tang**, Rongbiao Wang, Bocheng Liu, Yihua Kang. A novel magnetic flux leakage method based on the ferromagnetic lift-off layer with through groove *Sensors and Actuators A: Physical*. 2021: 113091. (IF:3.407；JCR分区:Q2) [[HTML]](https://dx.doi.org/10.1016/j.sna.2021.113091) [[Preview]](https://github.com/S-Kee/S-Kee.github.io/blob/main/pdf/TangJ-2021-A%20novel%20magnetic%20flux%20leakage%20method%20based%20on%20the%20ferromagnetic%20lift-off%20layer.pdf) [[PDF]](/pdf/TangJ-2021-A%20novel%20magnetic%20flux%20leakage%20method%20based%20on%20the%20ferromagnetic%20lift-off%20layer.pdf)
 
 1.	**Jian Tang**, Rongbiao Wang, Jikai Zhang, Yihua Kang. The influence of magnetic head’s pose on magnetic flux leakage detection. *International Journal of Applied Electromagnetics and Mechanics*. 2020, 64(1–4): 493–500. (IF:0.706；JCR分区:Q4) [[HTML]](https://dx.doi.org/10.3233/JAE-209356) [[Preview]](https://github.com/S-Kee/S-Kee.github.io/blob/main/pdf/TangJ-2020-The%20influence%20of%20magnetic%20head%E2%80%99s%20pose%20on%20magnetic%20flux%20leakage%20detection.pdf) [[PDF]](/pdf/TangJ-2020-The%20influence%20of%20magnetic%20head%E2%80%99s%20pose%20on%20magnetic%20flux%20leakage%20detection.pdf)
 
