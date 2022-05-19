@@ -15,14 +15,13 @@
   }
 
   a {
-    text-decoration: underline;
+    text-decoration: auto;
 
     &:hover {
       text-decoration: underline;
 
       img {
-        fill : red;
-        // box-shadow: 0 0 10px rgba(#000, 0.25);
+         box-shadow: 0 0 10px rgba(#900, 0.25);
       }
     }
     
