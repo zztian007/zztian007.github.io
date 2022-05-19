@@ -93,8 +93,9 @@ Hang Yang, Shenghan Wang, **Jian Tang**, Yihua Kang. Automatic eddy current test
 
 
 # 💬 Conferences
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+- *2021.10.08*, National Seminar on Electromagnetic Nondestructive Testing Technology and the 14th Plenary Session of the 11th Session of the Electromagnetic Professional Technology Conference of China, Xian China, Oral  
+*2021.10.08*, 全国电磁无损检测技术研讨会 暨 电磁专业技术大会第十一届第四次全体会议, 西安 陕西, 受邀报告
+- *2019.09.15*, The 19th International Symposium on Applied Electromagnetics and Mechanics (ISEM 2019), Nanjing China, Poster.
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
