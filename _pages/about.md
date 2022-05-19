@@ -84,19 +84,23 @@ Jie Meng, Erlong Li, **Jian Tang**, Yihua Kang. High Speed Magnetic Flux Leakage
 Hang Yang, Shenghan Wang, **Jian Tang**, Yihua Kang. Automatic eddy current testing method and system for camshaft. *Nondestructive Testing*. 2020, 42(11): 61.
 
 
-
-
-
 # 🏅 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2015.11 * 获得 第十四届“挑战杯”全国大学生课外学术科技作品竞赛 **一等奖**
+- *2015.11*  Win the **1st Prize** in the 14th "Challenge Cup" National Undergraduate Curricular Academic Science and Technology Works Competition
+- *2015.06* 获得 第十三届“挑战杯”全国大学生课外学术科技作品竞赛 **一等奖** [[新闻]](https://www.sc.gov.cn/10462/10778/10876/2015/7/1/10341562.shtml)
+- *2015.06* Win the **1st Prize** in the 13rd  "Challenge Cup" Sichuan Undergraduate Curricular Academic Science and Technology Works Competition [[Newsreport]](https://www.sc.gov.cn/10462/10778/10876/2015/7/1/10341562.shtml)
+- *2014.12* 获得第四届全国大学生工程训练综合能力竞赛（四川赛区） **一等奖**
+- *2014.12* Win the **1st Prize** in the 4th National Undergraduate Engineering Training Integration Ability Competition (Sichuan Division)
 
 
 # 🏛️ Conferences
-- *2021.10.08*, 全国电磁无损检测技术研讨会 暨 电磁专业技术大会第十一届第四次全体会议, 西安 陕西, 受邀报告  
-*2021.10.08*, National Seminar on Electromagnetic Nondestructive Testing Technology and the 14th Plenary Session of the 11th Session of the Electromagnetic Professional Technology Conference of China, Xian China, Oral
-- *2019.09.15*, The 19th International Symposium on Applied Electromagnetics and Mechanics (ISEM 2019), Nanjing China, Poster.
+- *2021.10*, 全国电磁无损检测技术研讨会 暨 电磁专业技术大会第十一届第四次全体会议, 西安 陕西, 受邀报告  
+*2021.10*, National Seminar on Electromagnetic Nondestructive Testing Technology and the 14th Plenary Session of the 11th Session of the Electromagnetic Professional Technology Conference of China, Xian China, Oral
+- *2019.09*, The 19th International Symposium on Applied Electromagnetics and Mechanics (ISEM 2019), Nanjing China, Poster.
+- *2017.10*, the 6th China International Pipeline Conference (CIPC 2017), Langfang China, Visit.
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2018.05 - 2020.02*, Chongqing Changjiang Bearing Co., Ltd, Chongqing China
+- *2020.11.25 - 2020.12.02*, Hubei Xinyegang Steel Ltd., Huangshi China.
+- *2017.6-2021.1*, Wuhan Huayu-M Testing Equipment Co., Ltd., Wuhan China
   
