@@ -26,10 +26,7 @@ Nondestructive testing (NDT). I have published more than 15 papers.
 # 🎓 Educations 
 - *2016.06 - 2022.12*, <a href="http://english.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> School of Mechanical Science and Engineering, Huazhong University of Science and Technology, Wuhan China. 
 - *2012.09 - 2016.06*, <a href="http://en.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> School of Manufacturing Science and Engineering, Sichuan University, Chengdu China. 
-
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+ 
 
 # 📝 Publications 
 
@@ -85,12 +82,12 @@ Hang Yang, Shenghan Wang, **Jian Tang**, Yihua Kang. Automatic eddy current test
 
 
 # 🏅 Honors and Awards
-- *2015.11 * 获得 第十四届“挑战杯”全国大学生课外学术科技作品竞赛 **一等奖**
-- *2015.11*  Win the **1st Prize** in the 14th "Challenge Cup" National Undergraduate Curricular Academic Science and Technology Works Competition
+- *2015.11* 获得 第十四届“挑战杯”全国大学生课外学术科技作品竞赛 **一等奖**
+  *2015.11*  Win the **1st Prize** in the 14th "Challenge Cup" National Undergraduate Curricular Academic Science and Technology Works Competition
 - *2015.06* 获得 第十三届“挑战杯”全国大学生课外学术科技作品竞赛 **一等奖** [[新闻]](https://www.sc.gov.cn/10462/10778/10876/2015/7/1/10341562.shtml)
-- *2015.06* Win the **1st Prize** in the 13rd  "Challenge Cup" Sichuan Undergraduate Curricular Academic Science and Technology Works Competition [[Newsreport]](https://www.sc.gov.cn/10462/10778/10876/2015/7/1/10341562.shtml)
+  *2015.06* Win the **1st Prize** in the 13rd  "Challenge Cup" Sichuan Undergraduate Curricular Academic Science and Technology Works Competition [[Newsreport]](https://www.sc.gov.cn/10462/10778/10876/2015/7/1/10341562.shtml)
 - *2014.12* 获得第四届全国大学生工程训练综合能力竞赛（四川赛区） **一等奖**
-- *2014.12* Win the **1st Prize** in the 4th National Undergraduate Engineering Training Integration Ability Competition (Sichuan Division)
+  *2014.12* Win the **1st Prize** in the 4th National Undergraduate Engineering Training Integration Ability Competition (Sichuan Division)
 
 
 # 🏛️ Conferences
