@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Tang Jian (唐健)"
+  name             : "Jian Tang (唐健)"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Huazhong university of science and technology"
   location         : "Wuhan, China"
@@ -30,7 +30,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=WMkMTb4AAAAJ"
   email            : "tangj@hust.edu.cn"
   researchgate     : "https://www.researchgate.net/profile/Jian-Tang-53"
-  uri              : "https://s-kee.github.io"
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
