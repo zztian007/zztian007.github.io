@@ -133,7 +133,7 @@ a {
 
 tt, code, kbd, samp, pre {
   font-family: $serif;
-  color: "#FF6666";
+  color: #FF6666;
 }
 
 pre {
@@ -148,7 +148,6 @@ td > code {
   padding-top: 0.1rem;
   padding-bottom: 0.1rem;
   font-size: $type-size-6;
-  color: "#FF6666";
   background: $code-background-color;
   border: 0.75px solid $lighter-gray;
   border-radius: $border-radius;
