@@ -26,7 +26,6 @@ My research interest includes:
 - Magnetic flux leakage (MFL) detection
 - Eddy current testing (ECT)
 - Electromagnetic measurements
-- Magnetic measurements
 - Magnetic sensors
 - Nondestructive testing equipment
 
