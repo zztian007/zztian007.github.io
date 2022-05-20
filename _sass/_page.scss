@@ -415,7 +415,12 @@
   padding-top: 12em;
   align-items: center;
 }
-
+.page_a {
+  color: #224b8d;
+  text-decoration: none;
+  &:hover {
+    text-decoration: underline;}
+}
 hr {
   width: 70%;
   margin: auto;
