@@ -97,14 +97,15 @@ Hang Yang, Shenghan Wang, `Jian Tang`, Yihua Kang. Automatic eddy current testin
 - *2014.12* 获得第四届全国大学生工程训练综合能力竞赛（四川赛区） `一等奖`  
 *2014.12* Win the `1st Prize` in the 4th National Undergraduate Engineering Training Integration Ability Competition (Sichuan Division)
 
+# 💬 Conferences
 
-# 🏛️ Conferences
 - *2021.10*, 全国电磁无损检测技术研讨会 暨 电磁专业技术大会第十一届第四次全体会议, 西安 陕西, 受邀报告  
 *2021.10*, National Seminar on Electromagnetic Nondestructive Testing Technology and the 14th Plenary Session of the 11th Session of the Electromagnetic Professional Technology Conference of China, Xian China, Oral
 - *2019.09*, The 19th International Symposium on Applied Electromagnetics and Mechanics (ISEM 2019), Nanjing China, Poster
 - *2017.10*, The 6th China International Pipeline Conference (CIPC 2017), Langfang China, Visit
 
-# 💻 Internships
+
+# 🏭 Internships
 - *2018.05 - 2020.02*, Chongqing Changjiang Bearing Co., Ltd, Chongqing China
 - *2020.11.25 - 2020.12.02*, Hubei Xinyegang Steel Ltd., Huangshi China
 - *2017.6-2021.1*, Wuhan Huayu-M Testing Equipment Co., Ltd., Wuhan China
