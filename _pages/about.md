@@ -106,7 +106,7 @@ Hang Yang, Shenghan Wang, `Jian Tang`, Yihua Kang. Automatic eddy current testin
 
 
 # 🏭 Internships
-- *2018.05 - 2020.02*, Chongqing Changjiang Bearing Co., Ltd, Chongqing China
+- *2018.05 - 2020.02*, Chongqing Changjiang Bearing Co., Ltd., Chongqing China
 - *2020.11.25 - 2020.12.02*, Hubei Xinyegang Steel Ltd., Huangshi China
 - *2017.6-2021.1*, Wuhan Huayu-M Testing Equipment Co., Ltd., Wuhan China
   
