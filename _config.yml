@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Jian Tang (唐健)"
+title                    : "Jian Tang"
 description              : "This is the homepage of Ph.D. Tang."
 repository               : "S-Kee/S-Kee.github.io"
 google_scholar_stats_use_cdn : false
