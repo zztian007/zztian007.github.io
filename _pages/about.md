@@ -17,11 +17,19 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I graduated from School of Mechanical Science and Engineering,  Huazhong University of Science and Technology (华中科技大学 机械科学与工程学院) , Wuhan China. with a doctor’s degree, advised by Yihua Kang (康宜华) and from School of Mechanical Engineering, Sichuan University (四川大学 机械工程学院) ,  Chengdu China with a bachelor’s degree. 
-
-My research interest includes Magnetic flux leakage (MFL)
-Nondestructive testing (NDT). I have published more than 15 papers. 
+I graduated from School of Mechanical Science and Engineering,  Huazhong University of Science and Technology (华中科技大学 机械科学与工程学院) , Wuhan China. with a doctor’s degree, advised by Yihua Kang (康宜华) and from School of Mechanical Engineering, Sichuan University (四川大学 机械工程学院) ,  Chengdu China with a bachelor’s degree. I have published more than 15 papers. 
  <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+
+My research interest includes: 
+- Instrumentation
+- Nondestructive testing (NDT)
+- Magnetic flux leakage (MFL) detection
+- Eddy current testing (ECT)
+- Electromagnetic measurements
+- Magnetic measurements
+- Magnetic sensors
+- Nondestructive testing equipment
+
 
 # 🎓 Educations 
 - *2016.06 - 2022.12*, <a href="http://english.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> School of Mechanical Science and Engineering, Huazhong University of Science and Technology, Wuhan China. 
@@ -94,7 +102,7 @@ Hang Yang, Shenghan Wang, `Jian Tang`, Yihua Kang. Automatic eddy current testin
 - *2021.10*, 全国电磁无损检测技术研讨会 暨 电磁专业技术大会第十一届第四次全体会议, 西安 陕西, 受邀报告  
 *2021.10*, National Seminar on Electromagnetic Nondestructive Testing Technology and the 14th Plenary Session of the 11th Session of the Electromagnetic Professional Technology Conference of China, Xian China, Oral
 - *2019.09*, The 19th International Symposium on Applied Electromagnetics and Mechanics (ISEM 2019), Nanjing China, Poster
-- *2017.10*, the 6th China International Pipeline Conference (CIPC 2017), Langfang China, Visit
+- *2017.10*, The 6th China International Pipeline Conference (CIPC 2017), Langfang China, Visit
 
 # 💻 Internships
 - *2018.05 - 2020.02*, Chongqing Changjiang Bearing Co., Ltd, Chongqing China
