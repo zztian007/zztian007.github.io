@@ -14,7 +14,7 @@
    
    /* system typefaces */
    $serif                      : Georgia, Times, serif;
-   $sans-serif                 : "Trebuchet MS", Helvetica, sans-serif;
+   $sans-serif                 : "Trebuchet MS", Helvetica,"Source Han Sans", "Microsoft YaHei", sans-serif;
    // $sans-serif                 : Georgia, serif, sans-serif;
    
    // $sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
@@ -58,8 +58,8 @@
    
    $body-color                 : #fff;
    $background-color           : #fff;
-   $code-background-color      : #fffbf2;
-   $code-text-color           : #CB4B16;
+   $code-background-color      : #EDEDEB;
+   $code-text-color           : #E65555;
    $code-background-color-dark : $light-gray;
    $text-color                 : $dark-gray;
    $border-color               : $lighter-gray;
