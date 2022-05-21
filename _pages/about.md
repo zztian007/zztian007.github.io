@@ -114,7 +114,6 @@ My research interest includes:
 
 1.	Hang Yang, Shenghan Wang, `Jian Tang`, Yihua Kang. Automatic eddy current testing method and system for camshaft. *Nondestructive Testing*. 2020, 42(11): 61.  
 杨航, 汪圣涵, 唐健, 康宜华. 凸轮轴的自动化涡流检测方法与系统. *无损检测*. 2020, 42(11): 61.  
-
 [[HTML]](https://dx.doi.org/10.11973/wsjc202011013) [[Preview]](https://github.com/S-Kee/S-Kee.github.io/blob/main/pdf/%E6%9D%A8%E8%88%AA-2020-%E5%87%B8%E8%BD%AE%E8%BD%B4%E7%9A%84%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B6%A1%E6%B5%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95%E4%B8%8E%E7%B3%BB%E7%BB%9F.pdf) [[PDF]](/pdf/%E6%9D%A8%E8%88%AA-2020-%E5%87%B8%E8%BD%AE%E8%BD%B4%E7%9A%84%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B6%A1%E6%B5%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95%E4%B8%8E%E7%B3%BB%E7%BB%9F.pdf)  
 
 
