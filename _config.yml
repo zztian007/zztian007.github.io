@@ -127,7 +127,7 @@ defaults:
       layout: default
       author_profile: true
   - scope:
-      path: "en"
+      path: "/en"
       type: pages
     values:
       layout: alter_eng
