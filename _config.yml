@@ -21,11 +21,11 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Zhenzhou Tian"
+  name             : "Zhenzhou Tian（田振洲）"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Xi'an University of Posts and Telecommunications"
-  location         : "Xi'an, China"
-  employer         : #"Hefei General Machinery Research Institute"
+  bio              : "副教授"
+  location         : "陕西 西安"
+  employer         : "西安邮电大学"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Rz5GXAoAAAAJ"
   email            : "zhenzhoutian@xupt.edu.cn"
