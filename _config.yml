@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Zhenzhou Tian"
-description              : "This is the academic homepage of Ph.D. Zhenzhou Tian."
+title                    : "Zhenzhou Tian（田振洲）"
+description              : "副教授"
 repository               : "zztian007/zztian007.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -27,9 +27,9 @@ author:
   location         : "Xi'an, China"
   employer         : #"Hefei General Machinery Research Institute"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=WMkMTb4AAAAJ"
-  email            : "tangj@hust.edu.cn"
-  researchgate     : "https://www.researchgate.net/profile/Jian-Tang-53"
+  googlescholar    : "https://scholar.google.com/citations?user=Rz5GXAoAAAAJ"
+  email            : "zhenzhoutian@xupt.edu.cn"
+  researchgate     : "https://www.researchgate.net/profile/Zhenzhou-Tian"
   uri              : 
   bitbucket        :
   codepen          :
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0000-0001-9658-209X"
+  orcid            : "https://orcid.org/0000-0001-7608-8908"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
