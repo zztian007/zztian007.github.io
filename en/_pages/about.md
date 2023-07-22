@@ -44,7 +44,7 @@ I'm an associate professor in the School of Computer Science, Xi'an University o
   
 - `Zhenzhou Tian`, Qing Wang, Cong Gao, Lingwei Chen, and Dinghao Wu. Plagiarism Detection of Multi-threaded Programs using Frequent Behavioral Pattern Mining. *International Journal of Software Engineering and Knowledge Engineering*, 2020. 30(11-12): 1667-1688.
 
-- `田振洲`, 王宁宁, 王清, 高聪, 刘烃, 郑庆华. 基于行为motifs的多线程程序抄袭检测方法. *计算机研究与发展*. 2020, 57(1): 202-213.
+- `Zhenzhou Tian`, Ningning Wang, Qing Wang, Cong Gao, Ting Liu, and Qinghua Zheng. Plagiarism Detection of Multi-threaded Programs by Mining Behavioral motifs. *Journal of Computer Research and Development*. 2020, 57(1): 202-213.
 
 - Cong Gao, Zhongmin Wang, Yanping Chen, and `Zhenzhou Tian`. A Scalable Two-Hop Multi-Sink Wireless Sensor Network for Data Collection in Large-Scale Smart Manufacturing Facilities. *Journal of Information Science & Engineering*. 2020, 36(4): 795-819.
 
@@ -108,38 +108,10 @@ I'm an associate professor in the School of Computer Science, Xi'an University o
 - Qinghua Zheng, `Zhenzhou Tian`, Ming Fan, Ting Liu, Eryue Zhuang. Online authentication of taxpayer identity with vary-length system call sequence birthmark. Chinese Patent: ZL201410320245.2. Date: 2015-10-21.
 - Ting Liu, Ming Fan, `Zhenzhou Tian`, Qinghua Zheng, Jun Liu. Dynamic authentication of taxpayer identity utilizing stack operation birthmark. Chinese Patent: ZL201410320243.3. Date: 2015-07-08.
 
-
-
-<span class='anchor' id='-kyxm'></span>
-
-# 💻 科研项目
-- 基于架构无关指令嵌入的代码跨模相似性度量学习方法研究, 国家自然科学基金（面上）项目, *2023.01 - 2026.12*. (主持)
-- 小程序中用户隐私数据的违规泄露行为检测方法, 国家自然科学基金（面上）项目, *2023.01 - 2026.12*. (参与)
-- 面向智能制造的无线传感器网络时间序列异常检测技术及应用, 陕西省重点研发计划一般项目-工业领域, *2023.01 - 2024.12*. (参与)
-- 面向IoT固件漏洞挖掘的跨平台目标代码相似性分析关键技术研究, 陕西省自然科学基础研究计划（面上）项目, *2022.01 - 2023.12*. (主持)
-- 陕西高校青年创新团队"工业大数据分析与智能处理创新团队", *2020.10 - 2024.10*. (参与)
-- 多线程程序并发故障智能测试关键技术研究, 陕西省重点研发计划一般项目-工业领域, *2020.01 - 2021.12*. (参与, 已结题)
-- 面向目标代码的软件抄袭检测及证据生成方法研究, 国家自然科学基金（青年）项目, *2018.01 - 2020.12*. (主持, 已结题)
-- 容忍入侵的工业大数据智能融合与安全采集技术研究, 陕西省科技厅-国际科技合作计划项目, *2018.01 - 2019.12*. (参与, 已结题)
-- 源码缺失情境下软件局部抄袭检测方法研究，陕西省自然科学基础研究计划（青年）项目, *2018.01 - 2019.12*. (主持, 已结题)
-- 基于多层网络理论的软件系统结构分析和行为建模研究, 国家自然科学基金（青年）项目, *2017.01 - 2019.12*. (参与, 已结题)
-- 多维在线跨语言Calling Network 建模及其在可信国家电子税务软件中的实证应用, 国家自然科学基金(重点)项目, *2015.01 - 2016.12*. (参与，已结题)
-- 面向国家电子税务系统的可信软件试验环境与示范应用, 国家自然科学基金（重点）项目, *2012.01 - 2015.12*. (参与, 已结题)
-
-
-<span class='anchor' id='-ryjx'></span>
-
-# 🏅 荣誉奖项
-- 2022年教育部高等学校科学研究优秀成果奖（科学技术）`自然科学奖一等奖`
-- 2017年中国通信学会科学技术奖`科技进步奖三等奖`
-- SEKE2020 `最佳论文奖`. "Plagiarism Detection of Multi-threaded Programs using Frequent Behavioral Pattern Mining"
-- ISSRE2016 `最佳论文奖`. "Frequent Subgraph based Familial Classification of Android Malware"
-- SEKE2014 `最佳Demo奖`. "DBPD: A Dynamic Birthmark-based Software Plagiarism Detection Tool"
  
-
 <span class='anchor' id='-xsfw'></span>
 
-# 🏛️ 学术服务
+# 🏛️ Academic Service
 - PC Member: ISSRE (2021-2023), SEKE (2020-2023), ICA3PP (2017)
-- 审稿人: TIFS, TOR, TDSC, IST, JSA, IJSEKE, Neurocomputing, Mathematics and Computers in Simulation, SEKE, ISSRE, 计算机科学, 信息网络安全
+- Reviewer: TIFS, TOR, TDSC, IST, JSA, IJSEKE, Neurocomputing, Mathematics and Computers in Simulation, SEKE, ISSRE, Computer Science, Netinfo Security
   
