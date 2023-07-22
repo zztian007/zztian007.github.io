@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Zhenzhou Tian   (田振洲)"
+  name             : "田振洲"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Associate Professor"
   location         : "Xi'an, China"
@@ -127,7 +127,7 @@ defaults:
       layout: default
       author_profile: true
   - scope:
-    path: "en"
+      path: "en"
       type: pages
     values:
       layout: alter_eng
