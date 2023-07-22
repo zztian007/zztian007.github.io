@@ -4,16 +4,19 @@ main:
     url: "/#about-me"
 
   - title: "Educations"
-    url: "/#-educations"
+    url: "/#-xl"
+
+  -title: "News"
+    url: "/#-lwzl"
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "/#-lwzl"
+
+  - title: "Projects"
+    url: "/#-kyxm"
 
   - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+    url: "/#-ryjx"
 
-  - title: "Conferences"
-    url: "/#-conferences"
-
-  - title: "Internships"
-    url: "/#-internships"
+  - title: "Academic Services"
+    url: "/#-xsfw"
