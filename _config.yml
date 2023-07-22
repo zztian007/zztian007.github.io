@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhenzhou Tian"
-description              : "西安邮电大学"
+description              : "Xi'an University of Posts and Telecommunications"
 repository               : "zztian007/zztian007.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Zhenzhou Tian(田振洲)"
+  name             : "Zhenzhou Tian   (田振洲)"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Associate Professor"
   location         : "Xi'an, China"
