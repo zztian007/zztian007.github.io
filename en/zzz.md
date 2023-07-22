@@ -2,6 +2,7 @@
 permalink: /en/
 title: ""
 excerpt: ""
+layout: alter_eng
 author_profile: true
 
 ---
