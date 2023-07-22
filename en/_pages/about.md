@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /en/
 title: ""
 excerpt: ""
 author_profile: true
@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-副教授，西安邮电大学计算机科学与技术、软件工程、电子信息方向硕士生导师，博士毕业于西安交通大学计算机科学与技术专业，2017年至今工作于西安邮电大学计算机学院。
+副fkdjaljflkajdlkfjalkjf与技术专业，2017年至今工作于西安邮电大学计算机学院。
  <a href='https://scholar.google.com/citations?user=Rz5GXAoAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
 
 研究领域：软件系统安全 
