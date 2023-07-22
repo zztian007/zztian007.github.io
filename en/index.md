@@ -3,7 +3,7 @@ permalink: /en/
 title: ""
 excerpt: ""
 author_profile: true
-layout: alter_eng
+#layout: alter_eng
 redirect_from: 
   - /index/
   - /index.html
