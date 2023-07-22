@@ -17,33 +17,23 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-副fkdjaljflkajdlkfjalkjf与技术专业，2017年至今工作于西安邮电大学计算机学院。
- <a href='https://scholar.google.com/citations?user=Rz5GXAoAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
+I'm an associate professor in the School of Computer Science, Xi'an University of Posts and Telecommunications. My research is mainly on software and System Security. My research interest includes Code Similarity Detection, AI for software Engineering, Smart Contract Analysis, Vulnerability Detection. I have published 30+ papers with <a href='https://scholar.google.com/citations?user=Rz5GXAoAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
-研究领域：软件系统安全 
-- 代码相似性检测
-- 机器及深度学习在程序分析领域的应用
-- 智能合约分析
-- 程序漏洞挖掘
-  
 
 <span class='anchor' id='-xl'></span>
 
-# 🎓 教育&工作经历
-- *2022.03-至今*      计算机学院，西安邮电大学，副教授
-- *2019.07-2020.08*   宾夕法尼亚州立大学，访问学者
-- *2017.01-2022.02*   计算机学院，西安邮电大学，讲师
-- *2010.9-2016.12*    计算机系统结构，西安交通大学，硕博连读（导师：郑庆华教授）
-- *2006.9-2010.7*     计算机科学与技术专业，西安交通大学，本科
+# 🎓 Educations
+- *2019.07 - 2020.08*, College of Information Sciences and Technology, Pennsylvania State University, Visiting Scholar (Advisor: Prof. Dinghao Wu). 
+- *2010.09 - 2016.12*, School of Computer Science and Technology, Xi'an Jiaotong University, PhD (Advisor: Prof. Qinghua Zheng, A.P. Ting Liu).
+- *2006.09 - 2010.07*, School of Computer Science and Technology, Xi'an Jiaotong University, Bachelor. 
 
  
 <span class='anchor' id='-lwzl'></span>
 
-# 📝 论文专利
+# 📝 Publications
 
-### 期刊
+### Journal
 ---
-
 - `Zhenzhou Tian`, Binhui Tian, Jiajun Lv, and Lingwei Chen. Learning and Fusing Multi-View Code Representations for Function Vulnerability Detection. *Electronics*. 2023, 12(11).
   
 - `Zhenzhou Tian`, Jie Tian, Zhongmin Wang, Yanping Chen, Hong Xia, and Lingwei Chen. Landscape Estimation of Solidity Version Usage on Ethereum via Version Identification. *International Journal of Intelligent Systems*. 2022, 37(1): 450-477.
@@ -73,7 +63,7 @@ redirect_from:
 - `Ming Fan`, Zhenzhou Tian, Ting Liu. SODB: A Novel method for Software Plagiarism Detection based on Stack Operation Dynamic Birthmark. *Journal of Shandong University (Natural Science)*. 2014, 49(9): 9-16.
 
 
-### 会议
+### Conference
 ---
 
 - `Zhenzhou Tian`, Yaqian Huang, Jie Tian, Zhongmin Wang, Yanping Chen, and Lingwei Chen. Ethereum Smart Contract Representation Learning for Robust Bytecode-Level Similarity Detection. *International Conference on Software Engineering and Knowledge Engineering (SEKE)*. 2022. (CCF C)
@@ -103,20 +93,21 @@ redirect_from:
 - `Zhenzhou Tian`, Qinghua Zheng, Ting Liu, Ming Fan. DKISB: Dynamic key instruction sequence birthmark for software plagiarism detection. *International Conference on High Performance Computing and Communications & IEEE International Conference on Embedded and Ubiquitous Computing (HPCC-EUC)*. 2013, 619-627. (CCF C)
  
 
-### 专利
+### Patents
 ---
-- `田振洲`, 谢博润, 王忠民, 张恒山, 高聪, 田杰, 何昆泽. 一种基于约减最短路径胎记的软件抄袭检测方法. 授权号: ZL201910318246.6. 授权日期: 2023-03-31.
-- `田振洲`. 基于动态指令依赖图胎记的软件局部抄袭检测方法. 授权号: ZL201711072012.5. 授权时间: 2021-05-18. 
-- `田振洲`, 王清, 高聪, 王忠民, 陈彦萍, 张恒山. 一种基于频繁模式挖掘的多线程程序抄袭检测方法. 授权号: ZL201910818878.9. 授权日期: 2021-04-30.
-- 张恒山, 王忠民, 陈彦萍, `田振洲`, 高聪, 孙韩林, 吕宁, 孙晶涛, 夏虹, 高玉坤. 基于准确性判定的用户评价数据分析方法. 授权号: ZL201810327374.2. 授权日期: 2021-08-31.
-- 张恒山, 王忠民, 陈彦萍, `田振洲`, 高聪, 孙韩林, 苑庆涛, 高玉坤. 基于等级分配的非均匀软件可信指标融合方法. 授权号: ZL201810327392.0. 授权日期: 2021-07-02.
-- 夏虹, 陈彦萍, 王忠民, 马龙, 王鑫, 张恒山, `田振洲`, 高聪. 基于服务网络的核心服务发现方法. 授权号: ZL201810155794.7. 授权日期: 2021-02-26.
-- 刘均, 刘烃, 范铭, 郑庆华, 陈天一, 刘恒, 农春崯, `田振洲`, 庄尔悦. 基于敏感子图的安卓恶意重打包软件检测方法. 授权号: ZL201610590632.7. 授权日期: 2019-02-05.
-- Qinghua Zheng, Ting Liu, Jun Liu, Ming Fan, Zhenzhou Tian. Method for plagiarism detection of multithreaded program based on thread slice birthmark. 美国专利, No. US9652601B2. 2017-05-16.
-- 郑庆华, `田振洲`, 刘烃, 范铭. 基于动态关键指令序列胎记的软件抄袭检测方法. 授权号: ZL201310449858.1. 授权日期: 2016-03-30.
-- 郑庆华, `田振洲`, 范铭, 刘烃, 庄尔悦. 基于变长系统调用序列胎记的报税人身份在线识别方法. 授权号: ZL201410320245.2. 授权日期: 2015-10-21.
-- 刘烃, 范铭, `田振洲`, 郑庆华, 刘均. 基于栈操作胎记的报税人身份动态认证方法. 授权号: ZL201410320243.3. 授权日期: 2015-07-08.
-- 郑庆华, 刘均, 范铭, `田振洲`, 刘烃, 杨子江. 基于线程切片胎记的多线程软件抄袭检测方法. 授权号: ZL201410076931.X. 授权日期: 2016-12-07
+- `Zhenzhou Tian`, Borun Xie, Zhongmin Wang, Hengshan Zhang, Cong Gao, Jie Tian, Kunze He. A software plagiarism detection method based on reduced shortest path birthmark. Chinese Patent: ZL201910318246.6. Date: 2023-03-31.
+- `Zhenzhou Tian`. Software partial plagiarism detection method based on dynamic instruction dependent graph birthmark. Chinese Patent: ZL201711072012.5. Date: 2021-05-18. 
+- `Zhenzhou Tian`, Qing Wang, Cong Gao, Zhongmin Wang, Yanping Chen, Hengshan Zhang. A multi-threaded program plagiarism detection method based on frequent pattern mining. Chinese Patent: ZL201910818878.9. Date: 2021-04-30.
+- Hengshan Zhang, Zhongmin Wang, Yanping Chen, `Zhenzhou Tian`, Cong Gao, Hanlin Sun, Ning Lv, Jingtao Sun, Hong Xia, Yukun Gao. User evaluation data analysis based on accuracy decision. Chinese Patent: ZL201810327374.2. Date: 2021-08-31.
+- Hengshan Zhang, Zhongmin Wang, Yanping Chen, `Zhenzhou Tian`, Cong Gao, Hanlin Sun, Qingtao Yuan, Yukun Gao. Heterogeneous software trust index fusion based on rank assignment. Chinese Patent: ZL201810327392.0. Date: 2021-07-02.
+- Hong Xia, Yanping Chen, Zhongmin Wang, Long Ma, Xin Wang, Hengshan Zhang, `Zhenzhou Tian`, Cong Gao. Core service discovery based on service network. Chinese Patent: ZL201810155794.7. Date: 2021-02-26.
+- Jun Liu, Ting Liu, Ming Fan, Qinghua Zheng, Tianyi Chen, Heng Liu, Chunyin Nong, `Zhenzhou Tian`, Eryue Zhuang. Detection of Android malicious repackaging software based on sensitive subgraph. Chinese Patent: ZL201610590632.7. Date: 2019-02-05.
+- Qinghua Zheng, Ting Liu, Jun Liu, Ming Fan, Zhenzhou Tian. Method for plagiarism detection of multithreaded program based on thread slice birthmark. US Patent: US9652601B2. Date: 2017-05-16.
+- Qinghua Zheng, Jun Liu, Ming Fan, `Zhenzhou Tian`, Ting Liu, Zijiang Yang. Thread-aware birthmark based plagiarism detection of multithreaded programs. Chinese Patent: ZL201410076931.X. Date: 2016-12-07
+- Qinghua Zheng, `Zhenzhou Tian`, Ting Liu, Ming Fan. Software plagiarism detection based on dynamic key instruction sequence. 授权号: ZL201310449858.1. 授权日期: 2016-03-30.
+- Qinghua Zheng, `Zhenzhou Tian`, Ming Fan, Ting Liu, Eryue Zhuang. Online authentication of taxpayer identity with vary-length system call sequence birthmark. Chinese Patent: ZL201410320245.2. Date: 2015-10-21.
+- Ting Liu, Ming Fan, `Zhenzhou Tian`, Qinghua Zheng, Jun Liu. Dynamic authentication of taxpayer identity utilizing stack operation birthmark. Chinese Patent: ZL201410320243.3. Date: 2015-07-08.
+
 
 
 <span class='anchor' id='-kyxm'></span>
