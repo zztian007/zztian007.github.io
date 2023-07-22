@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "田振洲"
+  name             : "Zhenzhou Tian(田振洲)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "副教授"
-  location         : "陕西 西安"
+  bio              : "Associate Professor"
+  location         : "Xi'an, China"
   employer         : # "西安邮电大学"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Rz5GXAoAAAAJ"
-  email            : "zhenzhoutian@xupt.edu.cn"
+  email            : "tianzhenzhou@xupt.edu.cn"
   researchgate     : "https://www.researchgate.net/profile/Zhenzhou-Tian"
   uri              : "http://gr.xupt.edu.cn/info/1101/5031.htm"
   bitbucket        :
