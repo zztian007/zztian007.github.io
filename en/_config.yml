@@ -124,7 +124,7 @@ defaults:
       path: "/en"
       type: pages
     values:
-      layout: default
+      layout: alter_eng
       author_profile: true
 
 
