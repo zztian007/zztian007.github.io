@@ -1,19 +1,19 @@
 # main links links
 main:
-  - title: "About Me"
+  - title: "简介"
     url: "/#about-me"
 
-  - title: "Educations"
+  - title: "学习和工作经历"
     url: "/#-xl"
 
-  - title: "Publications"
+  - title: "论文专利"
     url: "/#-lwzl"
 
-  - title: "Projects"
+  - title: "科研项目"
     url: "/#-kyxm"
 
-  - title: "Honors and Awards"
+  - title: "荣誉奖项"
     url: "/#-ryjx"
 
-  - title: "Academic Services"
+  - title: "学术服务"
     url: "/#-xsfw"
