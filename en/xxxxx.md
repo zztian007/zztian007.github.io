@@ -2,7 +2,7 @@
 permalink: /en/
 title: ""
 excerpt: ""
-author_profile: true
+author_profile: false
 
 ---
 
