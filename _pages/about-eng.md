@@ -4,6 +4,9 @@ title: "AcademicHomepage"
 excerpt: ""
 layout: alter_eng
 author_profile: true
+redirect_from: 
+  - /about-eng/
+  - /about-eng.html
 ---
 
 
