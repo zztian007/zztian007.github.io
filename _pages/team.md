@@ -1,8 +1,11 @@
 ---
-layout: archive
+layout: default
 title: "Team"
 permalink: /team/
 author_profile: true
+redirect_from:
+  - /team/
+  - /team.html
 ---
 
 
