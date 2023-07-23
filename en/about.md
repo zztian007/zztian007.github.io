@@ -1,6 +1,6 @@
 ---
 permalink: /en/
-title: ""
+title: "Academic Homepage"
 excerpt: ""
 layout: alter_eng
 author_profile: true
