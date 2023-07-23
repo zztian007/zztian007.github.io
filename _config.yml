@@ -64,6 +64,7 @@ include:
   - .htaccess
   - _pages
   - files
+  - en
 exclude:
   - docs
   - google_scholar_crawler
@@ -126,6 +127,15 @@ defaults:
     values:
       layout: default
       author_profile: true
+  # _pages
+  - scope:
+      path: ""
+      type: eng
+    values:
+      layout: alter_eng
+      author_profile: true
+  
+
 
 
 # Sass/SCSS
