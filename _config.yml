@@ -118,13 +118,7 @@ kramdown:
   enable_coderay: false
 
 
-# Collections
-collections:
-  posts:
-    output: true
-    permalink: /:collection/:path/
     
-
 # Defaults
 defaults:
   # _pages
