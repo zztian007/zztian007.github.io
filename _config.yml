@@ -127,16 +127,14 @@ defaults:
     values:
       layout: default
       author_profile: true
-  # _pages
+  # en
   - scope:
-      path: ""
-      type: eng
+      path: "en"
+      type: pages
     values:
-      layout: alter_eng
+      layout: "alter_eng"
       author_profile: true
   
-
-
 
 # Sass/SCSS
 sass:
