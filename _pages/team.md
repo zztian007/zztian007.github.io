@@ -15,12 +15,15 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 ## 🎓 在读研究生
+---
 - **研三**      王凡凡，田斌辉，柯贤群，贺瑞康
 - **研二**      邱瑞，常辰昊，宫雨晨，李濠江，张创
 - **研一**      赵佳乐，赵江巍，田新茹，滕玉东，李明浩，向洋
 
 
-## 毕业生
+
+## 💻 毕业生
+---
 ### **2020届**
 - 李谌（中科慧远视觉技术有限公司）
 - 吕佳俊（中兴）
