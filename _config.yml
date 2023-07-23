@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "田振洲"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/android-chrome-192x192.png"
   bio              : "Associate Professor"
   location         : "Xi'an, China"
   employer         : # "西安邮电大学"
