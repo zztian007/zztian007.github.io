@@ -120,7 +120,7 @@ kramdown:
 
 # Collections
 collections:
-  en:
+  posts:
     output: true
     permalink: /:collection/:path/
     
@@ -134,13 +134,17 @@ defaults:
     values:
       layout: default
       author_profile: true
-  # _en
+  # _posts
   - scope:
-      path: "en"
-      type: en
+      path: ""
+      type: posts
     values:
-      layout: "alter_eng"
+      layout: single
       author_profile: true
+      read_time: true
+      share: true
+      related: true
+      
   
 
 # Sass/SCSS
