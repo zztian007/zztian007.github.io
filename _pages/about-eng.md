@@ -2,7 +2,7 @@
 permalink: /eng/
 title: "AcademicHomepage"
 excerpt: ""
-layout: default
+layout: alter_eng
 author_profile: true
 redirect_from: 
   - /about-eng/
