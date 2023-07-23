@@ -8,7 +8,6 @@ redirect_from:
   - /team.html
 ---
 
-{% include base_path %}
 
 Education
 ======
