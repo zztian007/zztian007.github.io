@@ -5,7 +5,7 @@ excerpt: ""
 layout: alter_eng
 author_profile: true
 redirect_from: 
-  - /en/
+  - /index/
   - /index.html
 ---
 
