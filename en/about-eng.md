@@ -4,7 +4,11 @@ title: "AcademicHomepage"
 excerpt: ""
 layout: alter_eng
 author_profile: true
+redirect_from: 
+  - /about-eng/
+  - /about-eng.html
 ---
+
 
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
