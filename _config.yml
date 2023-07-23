@@ -64,7 +64,6 @@ include:
   - .htaccess
   - _pages
   - files
-  - en
 exclude:
   - docs
   - google_scholar_crawler
@@ -118,6 +117,14 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
+
+# Collections
+collections:
+  en:
+    output: true
+    permalink: /:collection/:path/
+    
+
 # Defaults
 defaults:
   # _pages
@@ -127,10 +134,10 @@ defaults:
     values:
       layout: default
       author_profile: true
-  # en
+  # _en
   - scope:
       path: "en"
-      type: pages
+      type: en
     values:
       layout: "alter_eng"
       author_profile: true
