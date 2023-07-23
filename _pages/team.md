@@ -4,8 +4,7 @@ title: ""
 permalink: /team/
 author_profile: true
 redirect_from:
-  - /teamm/
-  - /teamm.html
+  - /team
 ---
 
 
