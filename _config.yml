@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhenzhou Tian"
-description              : "Xi'an University of Posts and Telecommunications"
+description              : "西安邮电大学"
 repository               : "zztian007/zztian007.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -64,6 +64,7 @@ include:
   - .htaccess
   - _pages
   - files
+  - en
 exclude:
   - docs
   - google_scholar_crawler
