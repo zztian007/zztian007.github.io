@@ -1,11 +1,11 @@
 ---
 permalink: /en/
-title: "Academic Homepage"
+title: "AcademicHomepage"
 excerpt: ""
 layout: alter_eng
 author_profile: true
 redirect_from: 
-  - /about/
+  - /en/
   - /about.html
 ---
 
