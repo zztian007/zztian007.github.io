@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-google-site-verification=W5EydTY1MrN2QjfYR9sJQLwTmffyeEgMs6KgMWO7bcg
-
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
