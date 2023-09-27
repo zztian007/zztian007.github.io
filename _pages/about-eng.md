@@ -36,9 +36,11 @@ I'm an associate professor in the School of Computer Science, Xi'an University o
 
 ### Journal
 ---
+- `Zhenzhou Tian`, Binhui Tian, Jiajun Lv, Yanping Chen, and Lingwei Chen. Enhancing Vulnerability Detection via AST Decomposition and Neural Sub-tree Encoding. *Expert Systems with Applications*. 2023. (JCR 1)
+
 - `Zhenzhou Tian`, Binhui Tian, Jiajun Lv, and Lingwei Chen. Learning and Fusing Multi-View Code Representations for Function Vulnerability Detection. *Electronics*. 2023, 12(11).
   
-- `Zhenzhou Tian`, Jie Tian, Zhongmin Wang, Yanping Chen, Hong Xia, and Lingwei Chen. Landscape Estimation of Solidity Version Usage on Ethereum via Version Identification. *International Journal of Intelligent Systems*. 2022, 37(1): 450-477.
+- `Zhenzhou Tian`, Jie Tian, Zhongmin Wang, Yanping Chen, Hong Xia, and Lingwei Chen. Landscape Estimation of Solidity Version Usage on Ethereum via Version Identification. *International Journal of Intelligent Systems*. 2022, 37(1): 450-477. (JCR 1)
 
 - `Zhenzhou Tian`, Yaqian Huang, Borun Xie, Yanping Chen, Lingwei Chen, and Dinghao Wu. Fine-Grained Compiler Identification with Sequence-oriented Neural Modeling. *IEEE ACCESS*. 2021, 49160-49175.
   
