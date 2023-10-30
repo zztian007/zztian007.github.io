@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-博士，副教授，西安邮电大学计算机科学与技术、软件工程、电子信息方向硕士生导师。主要从事软件系统安全领域的研究工作，研究兴趣包括代码相似性检测、机器及深度学习在程序分析方面的应用、智能合约分析、程序漏洞挖掘等。
+博士，副教授，西安邮电大学计算机科学与技术、软件工程、电子信息方向硕士生导师。主要从事AI软件工程和软件安全领域的研究工作，研究兴趣包括代码相似性检测、机器及深度学习在程序分析方面的应用、智能合约分析、程序漏洞挖掘等。
 
 获2022年教育部自然科学奖一等奖、2017年中国通信学会科技进步三等奖。先后主持国家自然科学基金2项、陕西省自然科学基础研究计划2项；作为核心成员参与国家自然科学基金重点、面上及青年项目，以及陕西高校青年创新团队等国家及省部级课题多项。在TSE、TIFS、ICSE、IJIS、计算机研究与发展、JSS等软件工程和信息安全领域顶级期刊和会议上发表论文30余篇<a href='https://scholar.google.com/citations?user=Rz5GXAoAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>，授权中国发明专利10余项、美国专利1项。获SEKE 2020最佳论文奖、ISSRE 2016最佳论文奖、SEKE 2014最佳Demo奖等。指导学生获“互联网+”省奖、数学建模国家二等奖、校优秀毕业生、优秀研究生毕业论文等。
 
@@ -33,6 +33,7 @@ redirect_from:
 
 <span class='anchor' id='-xl'></span>
 # 🔥 News
+- 2023.09：🎉获评2023年西安邮电大学研究生“十佳导师”
 - 2023.09：🎉祝贺学生田斌辉在ESWA（中科院一区）期刊发表智能漏洞检测研究成果，题为“Enhancing Vulnerability Detection via AST Decomposition and Neural Sub-tree Encoding”
 - 2023.09: 🥇 祝贺学生张创、田斌辉带领的团队项目，分获“中兴捧月杯”西安邮电大学首届研究生网络安全创新大赛一等奖和二等奖
 - 2023.07: 🥇<a href="http://news.xupt.edu.cn/info/1002/21603.htm">喜获2022年度教育部自然科学奖一等奖</a>
