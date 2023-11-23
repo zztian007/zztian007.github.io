@@ -33,6 +33,8 @@ redirect_from:
 
 <span class='anchor' id='-xl'></span>
 # 🔥 News
+- 2023.11: 🎉祝贺学生张创带领的团队获研究生数学建模竞赛国家二等奖
+- 2023.11：🎉<a href="http://news.xupt.edu.cn/info/1004/22012.htm">祝贺学生张创带领的团队，获华为杯”第二届中国研究生网络安全创新大赛全国二等奖</a>
 - 2023.09：🎉获评2023年西安邮电大学研究生“十佳导师”
 - 2023.09：🎉<a href="https://mp.weixin.qq.com/s/IIkNAXsTBAjSp9t_eMNBdw">祝贺学生田斌辉在ESWA（中科院一区）期刊发表智能漏洞检测研究成果，题为“Enhancing Vulnerability Detection via AST Decomposition and Neural Sub-tree Encoding”</a>
 - 2023.09: 🥇 祝贺学生张创、田斌辉带领的团队项目，分获“中兴捧月杯”西安邮电大学首届研究生网络安全创新大赛一等奖和二等奖
@@ -47,6 +49,8 @@ redirect_from:
 
 ### 期刊
 ---
+- `Zhenzhou Tian`, Ruikang He, Hongliang Zhao, and Lingwei Chen. Function-Level Code Obfuscation Detection Through Self-Attention Guided Multi-Representation Fusion. *International Journal of Software Engineering and Knowledge Engineering*. 2023. (Accepted)
+
 - `Zhenzhou Tian`, Binhui Tian, Jiajun Lv, Yanping Chen, and Lingwei Chen. Enhancing Vulnerability Detection via AST Decomposition and Neural Sub-tree Encoding. *Expert Systems with Applications*. 2023. (中科院一区)
 
 - `Zhenzhou Tian`, Binhui Tian, Jiajun Lv, and Lingwei Chen. Learning and Fusing Multi-View Code Representations for Function Vulnerability Detection. *Electronics*. 2023, 12(11).
