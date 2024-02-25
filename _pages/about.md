@@ -33,6 +33,7 @@ redirect_from:
 
 <span class='anchor' id='-xl'></span>
 # 🔥 News
+- 2023.12: 🎉<a href="https://mp.weixin.qq.com/s/-ELZPF2orsTuimZyI_8hDA">获评《信息网络安全》2023年度优秀审稿人</a>
 - 2023.11: 🎉祝贺学生张创带领的团队获研究生数学建模竞赛国家二等奖
 - 2023.11：🎉<a href="http://news.xupt.edu.cn/info/1004/22012.htm">祝贺学生张创带领的团队，获华为杯”第二届中国研究生网络安全创新大赛全国二等奖</a>
 - 2023.09：🎉获评2023年西安邮电大学研究生“十佳导师”
