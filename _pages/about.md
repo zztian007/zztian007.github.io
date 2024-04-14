@@ -33,6 +33,7 @@ redirect_from:
 
 <span class='anchor' id='-xl'></span>
 # 🔥 News
+- 2023.05: <a href="https://mp.weixin.qq.com/s/AH-BUdlIJc-Bfjw_tS5nEw">祝贺学生赵佳乐带领的团队项目“深测之眼:IoT固件漏洞智能检测平台”入驻校创新创业孵化基地</a>
 - 2023.12: 🎉<a href="https://mp.weixin.qq.com/s/-ELZPF2orsTuimZyI_8hDA">获评《信息网络安全》2023年度优秀审稿人</a>
 - 2023.11: 🎉祝贺学生张创带领的团队获研究生数学建模竞赛国家二等奖
 - 2023.11：🎉<a href="http://news.xupt.edu.cn/info/1004/22012.htm">祝贺学生张创带领的团队，获华为杯”第二届中国研究生网络安全创新大赛全国二等奖</a>
@@ -50,7 +51,9 @@ redirect_from:
 
 ### 期刊
 ---
-- `Zhenzhou Tian`, Ruikang He, Hongliang Zhao, and Lingwei Chen. Function-Level Code Obfuscation Detection Through Self-Attention Guided Multi-Representation Fusion. *International Journal of Software Engineering and Knowledge Engineering*. 2023. (Accepted)
+- `Zhenzhou Tian`, Fanfan Wang, Yanping Chen, and Lingwei Chen. Differential Testing Solidity Compiler through Deep Contract Manipulation and Mutation. *Software Quality Journal*. 2024. (accepted)
+
+- `Zhenzhou Tian`, Ruikang He, Hongliang Zhao, and Lingwei Chen. Function-Level Code Obfuscation Detection Through Self-Attention Guided Multi-Representation Fusion. *International Journal of Software Engineering and Knowledge Engineering*. 2024.
 
 - `Zhenzhou Tian`, Binhui Tian, Jiajun Lv, Yanping Chen, and Lingwei Chen. Enhancing Vulnerability Detection via AST Decomposition and Neural Sub-tree Encoding. *Expert Systems with Applications*. 2023. (中科院一区)
 
