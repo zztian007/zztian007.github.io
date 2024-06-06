@@ -19,7 +19,7 @@ redirect_from:
 
 博士，副教授，西安邮电大学计算机科学与技术、软件工程、电子信息方向硕士生导师, CCF高级会员。主要从事AI软件工程和软件安全领域的研究工作，研究兴趣包括代码相似性检测、机器及深度学习在程序分析方面的应用、智能合约分析、程序漏洞挖掘等。
 
-获2022年教育部自然科学奖一等奖、2017年中国通信学会科技进步三等奖。先后主持国家自然科学基金2项、陕西省自然科学基础研究计划2项；作为核心成员参与国家自然科学基金重点、面上及青年项目，以及陕西高校青年创新团队等国家及省部级课题多项。在TSE、TIFS、ICSE、IJIS、计算机研究与发展、JSS等软件工程和信息安全领域顶级期刊和会议上发表论文30余篇<a href='https://scholar.google.com/citations?user=Rz5GXAoAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>，授权中国发明专利10余项、美国专利1项。获SEKE 2020最佳论文奖、ISSRE 2016最佳论文奖、SEKE 2014最佳Demo奖等。指导学生获“互联网+”省奖、数学建模国家二等奖、校优秀毕业生、优秀研究生毕业论文等。
+获2022年教育部自然科学奖一等奖、2017年中国通信学会科技进步三等奖。先后主持国家自然科学基金2项、陕西省自然科学基础研究计划2项；作为核心成员参与国家自然科学基金重点、面上及青年项目，以及陕西高校青年创新团队等国家及省部级课题多项。在TSE、TIFS、ICSE、IJIS、计算机研究与发展、JSS等软件工程和信息安全领域顶级期刊和会议上发表论文30余篇<a href='https://scholar.google.com/citations?user=Rz5GXAoAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>，授权中国发明专利10余项、美国专利1项。获SEKE 2020最佳论文奖、ISSRE 2016最佳论文奖、SEKE 2014最佳Demo奖等。指导学生获“互联网+”省奖、数学建模国家二等奖、网络安全创新大赛全国二等奖、校优秀毕业生、优秀研究生毕业论文等。
 
 欢迎编程能力强，基础扎实，善于思考和钻研，认真负责的硕士生报考，同时欢迎优秀的本科实习生参与科研项目实践。
 邮箱: tianzhenzhou@xupt.edu.cn
@@ -28,7 +28,7 @@ redirect_from:
 # 🎓 学习和工作经历
 - *2017.01-至今*   计算机学院，西安邮电大学
 - *2019.07-2020.08*   宾夕法尼亚州立大学，访问学者
-- *2010.9-2016.12*    计算机系统结构，西安交通大学，硕博连读（导师：郑庆华教授）
+- *2010.9-2016.12*    计算机系统结构，西安交通大学，硕博连读（导师：郑庆华院士）
 - *2006.9-2010.7*     计算机科学与技术专业，西安交通大学，本科
 
 <span class='anchor' id='-xl'></span>
@@ -51,11 +51,11 @@ redirect_from:
 
 ### 期刊
 ---
-- `Zhenzhou Tian`, Fanfan Wang, Yanping Chen, and Lingwei Chen. Differential Testing Solidity Compiler through Deep Contract Manipulation and Mutation. *Software Quality Journal*. 2024. (accepted)
+- `Zhenzhou Tian`, Fanfan Wang, Yanping Chen, and Lingwei Chen. Differential Testing Solidity Compiler through Deep Contract Manipulation and Mutation. *Software Quality Journal*. 2024.
 
-- `Zhenzhou Tian`, Ruikang He, Hongliang Zhao, and Lingwei Chen. Function-Level Code Obfuscation Detection Through Self-Attention Guided Multi-Representation Fusion. *International Journal of Software Engineering and Knowledge Engineering*. 2024.
+- `Zhenzhou Tian`, Ruikang He, Hongliang Zhao, and Lingwei Chen. Function-Level Code Obfuscation Detection Through Self-Attention Guided Multi-Representation Fusion. *International Journal of Software Engineering and Knowledge Engineering*. 2024, 34(04), 651-673.
 
-- `Zhenzhou Tian`, Binhui Tian, Jiajun Lv, Yanping Chen, and Lingwei Chen. Enhancing Vulnerability Detection via AST Decomposition and Neural Sub-tree Encoding. *Expert Systems with Applications*. 2023. (中科院一区)
+- `Zhenzhou Tian`, Binhui Tian, Jiajun Lv, Yanping Chen, and Lingwei Chen. Enhancing Vulnerability Detection via AST Decomposition and Neural Sub-tree Encoding. *Expert Systems with Applications*. 2024, 238:12186. (中科院一区)
 
 - `Zhenzhou Tian`, Binhui Tian, Jiajun Lv, and Lingwei Chen. Learning and Fusing Multi-View Code Representations for Function Vulnerability Detection. *Electronics*. 2023, 12(11).
   
