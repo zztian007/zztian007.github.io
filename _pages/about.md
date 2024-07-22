@@ -152,7 +152,7 @@ redirect_from:
 <span class='anchor' id='-ryjx'></span>
 
 # 🏅 荣誉奖项
-- 2024年度陕西高等学校科学技术研究优秀成果奖二等奖
+- 2024年度陕西高等学校科学技术研究优秀成果奖`二等奖`
 - 2022年教育部高等学校科学研究优秀成果奖（科学技术）`自然科学奖一等奖`
 - 2017年中国通信学会科学技术奖`科技进步奖三等奖`
 - SEKE2020 `最佳论文奖`. "Plagiarism Detection of Multi-threaded Programs using Frequent Behavioral Pattern Mining"
@@ -163,8 +163,8 @@ redirect_from:
 <span class='anchor' id='-xsfw'></span>
 
 # 🏛️ 学术服务
-- PC Member: ISSRE (2021-2023), SEKE (2020-2023), ICA3PP (2017)
-- 审稿人: TIFS, TOR, TDSC, IST, JSA, IJSEKE, Neurocomputing, Mathematics and Computers in Simulation, SEKE, ISSRE, 计算机科学, 信息网络安全
+- PC Member: ISSRE (2021-2024), SEKE (2020-2024), ICA3PP
+- 审稿人: TIFS, TOR, TDSC, IST, JSA, ESWA, IJSEKE, Neurocomputing, Mathematics and Computers in Simulation, SEKE, ISSRE, 计算机科学, 信息网络安全
 
 
 <span class='anchor' id='-team'></span>
@@ -174,7 +174,7 @@ redirect_from:
 ## 🌱 在读研究生
 - **研三:**      邱瑞，常辰昊，宫雨晨，李濠江，张创
 - **研二:**      赵佳乐，赵江巍，田新茹，滕玉东，李明浩，向洋
-- **研一:**      于泽辉，惠云蓬，杨培轩，屈鹏锐，王梓琳
+- **研一:**      于泽辉，杨培轩，王梓琳，屈鹏锐，惠云蓬
 
 
 ## 🍷🍺🍸 毕业生
