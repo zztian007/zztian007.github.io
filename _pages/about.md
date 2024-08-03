@@ -34,7 +34,7 @@ redirect_from:
 <span class='anchor' id='-xl'></span>
 # 🔥 News
 - 2024.07: 🎉祝贺学生王佳乐带领的团队项目获研电赛西北赛区二等奖。
-- 2024.07: 🎉祝贺21届全部四名毕业生田斌辉、王凡凡、柯贤群、贺瑞康获校级优秀研究生毕业论文。
+- 2024.07: 🎉祝贺21届全部四名毕业生田斌辉、王凡凡、柯贤群、贺瑞康获校级优秀硕士学位论文。
 - 2024.04: <a href="https://mp.weixin.qq.com/s/AH-BUdlIJc-Bfjw_tS5nEw">祝贺学生赵佳乐带领的团队项目“深测之眼:IoT固件漏洞智能检测平台”入驻校创新创业孵化基地</a>
 - 2023.12: 🎉<a href="https://mp.weixin.qq.com/s/-ELZPF2orsTuimZyI_8hDA">获评《信息网络安全》2023年度优秀审稿人</a>
 - 2023.11: 🎉祝贺学生张创带领的团队获研究生数学建模竞赛国家二等奖
@@ -53,6 +53,8 @@ redirect_from:
 
 ### 期刊
 ---
+- `Zhenzhou Tian`, Yuchen Gong, Chenhao Chang, Jiaze Sun, Yanping Chen, and Lingwei Chen. An Empirical Study on the Divergence of Differently-Sourced LLVM IRs. *Journal of Computer Languages*. 2024.
+
 - `Zhenzhou Tian`, Fanfan Wang, Yanping Chen, and Lingwei Chen. Differential Testing Solidity Compiler through Deep Contract Manipulation and Mutation. *Software Quality Journal*. 2024.
 
 - `Zhenzhou Tian`, Ruikang He, Hongliang Zhao, and Lingwei Chen. Function-Level Code Obfuscation Detection Through Self-Attention Guided Multi-Representation Fusion. *International Journal of Software Engineering and Knowledge Engineering*. 2024, 34(04), 651-673.
@@ -181,10 +183,10 @@ redirect_from:
 
 ## 🍷🍺🍸 毕业生
   **2021届**
-- 王凡凡（中国移动）
-- 柯贤群（西安博达软件）
-- 贺瑞康（中兴）
-- 田斌辉（盛邦安全）
+- 王凡凡（优秀硕士学位论文）（中国移动）
+- 柯贤群（优秀硕士学位论文）（西安博达软件）
+- 贺瑞康（优秀硕士学位论文）（中兴）
+- 田斌辉（优秀硕士学位论文）（盛邦安全）
   
   **2020届**
 - 李谌（中科慧远）
@@ -194,12 +196,12 @@ redirect_from:
   
   **2019届**
 - 李锦锐（中国工商银行）
-- 田杰（中国工商银行）
+- 田杰（优秀硕士学位论文）（中国工商银行）
 - 毛恒超（中国联通西安软件研究院）
 - 黄雅倩（徽商银行）
   
   **2018届**
 - 谢博润（华为）
-- 王清（中国联通西安软件研究院）
+- 王清(优秀毕业研究生，优秀硕士学位论文)（中国联通西安软件研究院）
 - 王宁宁（中国山西联通）
 - 冯桢（华为）  
