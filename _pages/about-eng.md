@@ -104,7 +104,7 @@ I'm an associate professor in the School of Computer Science, Xi'an University o
 ### Patents
 ---
 - `Zhenzhou Tian`, Borun Xie, Zhongmin Wang, Hengshan Zhang, Cong Gao, Jie Tian, Kunze He. A software plagiarism detection method based on reduced shortest path birthmark. Chinese Patent: ZL201910318246.6. Date: 2023-03-31.
-- `Zhenzhou Tian`. Software partial plagiarism detection method based on dynamic instruction dependent graph birthmark. Chinese Patent: ZL201711072012.5. Date: 2021-05-18. 
+- `Zhenzhou Tian`, Zhongmin Wang, Yanping Chen, Hengshan Zhang, Hong Xia, Ting Liu, Qinghua Zheng. Software partial plagiarism detection method based on dynamic instruction dependent graph birthmark. Chinese Patent: ZL201711072012.5. Date: 2021-05-18. 
 - `Zhenzhou Tian`, Qing Wang, Cong Gao, Zhongmin Wang, Yanping Chen, Hengshan Zhang. A multi-threaded program plagiarism detection method based on frequent pattern mining. Chinese Patent: ZL201910818878.9. Date: 2021-04-30.
 - Hengshan Zhang, Zhongmin Wang, Yanping Chen, `Zhenzhou Tian`, Cong Gao, Hanlin Sun, Ning Lv, Jingtao Sun, Hong Xia, Yukun Gao. User evaluation data analysis based on accuracy decision. Chinese Patent: ZL201810327374.2. Date: 2021-08-31.
 - Hengshan Zhang, Zhongmin Wang, Yanping Chen, `Zhenzhou Tian`, Cong Gao, Hanlin Sun, Qingtao Yuan, Yukun Gao. Heterogeneous software trust index fusion based on rank assignment. Chinese Patent: ZL201810327392.0. Date: 2021-07-02.
@@ -120,6 +120,6 @@ I'm an associate professor in the School of Computer Science, Xi'an University o
 <span class='anchor' id='-xsfw'></span>
 
 # 🏛️ Academic Service
-- PC Member: ISSRE (2021-2023), SEKE (2020-2023), ICA3PP (2017)
-- Reviewer: TIFS, TOR, TDSC, IST, JSA, IJSEKE, Neurocomputing, Mathematics and Computers in Simulation, SEKE, ISSRE, Computer Science, Netinfo Security
+- PC Member: ISSRE (2021-2024), SEKE (2020-2024), ICA3PP (2017)
+- Reviewer: TIFS, TOR, TDSC, IST, JSA, IJSEKE, ESWA, Neurocomputing, Mathematics and Computers in Simulation, SEKE, ISSRE, Computer Science, Netinfo Security
   
