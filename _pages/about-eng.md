@@ -36,7 +36,9 @@ I'm an associate professor in the School of Computer Science, Xi'an University o
 
 ### Journal
 ---
-- `Zhenzhou Tian`, Fanfan Wang, Yanping Chen, and Lingwei Chen. Differential Testing Solidity Compiler through Deep Contract Manipulation and Mutation. *Software Quality Journal*. 2024. (accepted)
+- `Zhenzhou Tian`, Yuchen Gong, Chenhao Chang, Jiaze Sun, Yanping Chen, and Lingwei Chen. An Empirical Study on the Divergence of Differently-Sourced LLVM IRs. *Journal of Computer Languages*. 2024. (Accepted)
+
+- `Zhenzhou Tian`, Fanfan Wang, Yanping Chen, and Lingwei Chen. Differential Testing Solidity Compiler through Deep Contract Manipulation and Mutation. *Software Quality Journal*. 2024.
 
 - `Zhenzhou Tian`, Ruikang He, Hongliang Zhao, and Lingwei Chen. Function-Level Code Obfuscation Detection Through Self-Attention Guided Multi-Representation Fusion. *International Journal of Software Engineering and Knowledge Engineering*. 2024.
 
