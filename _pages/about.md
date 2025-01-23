@@ -33,6 +33,7 @@ redirect_from:
 
 <span class='anchor' id='-xl'></span>
 # 🔥 News
+- 2025.01: 🎉<a href="https://mp.weixin.qq.com/s/f6_NUyjCP_X6C6lFqlkfew">获评《信息网络安全》2024年度优秀审稿人</a>
 - 2024.11: 🎉<a href="https://mp.weixin.qq.com/s/coyNqfvZhNJDdztS-OEloA">祝贺学生李明浩带领的团队获第二十一届中国研究生数学建模竞赛华为专项一等奖</a>
 - 2024.07: 🎉祝贺学生王佳乐带领的团队项目获研电赛西北赛区二等奖。
 - 2024.07: 🎉祝贺21届全部四名毕业生田斌辉、王凡凡、柯贤群、贺瑞康获校级优秀硕士学位论文。
