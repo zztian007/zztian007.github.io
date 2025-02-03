@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-博士，副教授，西安邮电大学计算机科学与技术、软件工程、电子信息方向硕士生导师, CCF高级会员。主要从事AI软件工程和软件安全领域的研究工作，研究兴趣包括软件供应链安全、程序漏洞挖掘、代码相似性分析、程序理解、恶意软件分析、机器及深度学习在程序分析方面的应用等。
+博士，副教授，西安邮电大学计算机科学与技术、软件工程、电子信息方向硕士生导师, CCF高级会员。主要从事AI软件工程和软件安全领域的研究工作，研究兴趣包括软件供应链安全、漏洞挖掘、代码相似性检测、程序理解、恶意软件分析、机器及深度学习在程序分析方面的应用等。
 
-获2022年教育部自然科学奖一等奖、2017年中国通信学会科技进步三等奖。先后主持国家自然科学基金2项、陕西省自然科学基础研究计划2项；作为核心成员参与国家自然科学基金重点、面上及青年项目，以及陕西高校青年创新团队等国家及省部级课题多项。在TSE、TIFS、ICSE、IJIS、计算机研究与发展、JSS等软件工程和信息安全领域顶级期刊和会议上发表论文30余篇<a href='https://scholar.google.com/citations?user=Rz5GXAoAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>，授权中国发明专利10余项、美国专利1项。获SEKE 2020最佳论文奖、ISSRE 2016最佳论文奖、SEKE 2014最佳Demo奖等。指导学生获“互联网+”省奖、数学建模国家二等奖、网络安全创新大赛全国二等奖、校优秀毕业生、优秀研究生毕业论文等。
+获2022年教育部自然科学奖一等奖、2024年陕西高校科学技术研究优秀成果二等奖、2017年中国通信学会科技进步三等奖。先后主持国家自然科学基金2项、陕西省自然科学基础研究计划2项；作为核心成员参与国家自然科学基金重点、面上及青年项目，以及陕西高校青年创新团队等国家及省部级课题多项。在TSE、TIFS、ICSE、IJIS、计算机研究与发展、JSS等软件工程和信息安全领域顶级期刊和会议上发表论文30余篇<a href='https://scholar.google.com/citations?user=Rz5GXAoAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>，授权中国发明专利10余项、美国专利1项。获SEKE 2020最佳论文奖、ISSRE 2016最佳论文奖、SEKE 2014最佳Demo奖等。指导学生获“互联网+”省奖、数学建模华为专项一等奖、网络安全创新大赛全国二等奖、校优秀毕业生、优秀研究生毕业论文等。
 
 欢迎编程能力强，基础扎实，善于思考和钻研，认真负责的硕士生报考，同时欢迎优秀的本科实习生参与科研项目实践。
 邮箱: tianzhenzhou@xupt.edu.cn
@@ -55,7 +55,9 @@ redirect_from:
 
 ### 期刊
 ---
-- `Zhenzhou Tian`, Haojiang Li, Hanlin Sun, Yanping Chen, and Lingwei Chen. HardVD: High-Capacity Cross-Modal Adversarial Reprogramming for Data-Efficient Vulnerability Detection. *Information Sciences*. 2024. (中科院一区)
+- `Zhenzhou Tian`, Rui Qiu, Yudong Teng, Jiaze Sun, Yanping Chen, and Lingwei Chen. HardVD: High-Capacity Cross-Modal Adversarial Reprogramming for Data-Efficient Vulnerability Detection. *Journal of Systems and Software*. 2025. (CCF B)
+
+- `Zhenzhou Tian`, Haojiang Li, Hanlin Sun, Yanping Chen, and Lingwei Chen. HardVD: High-Capacity Cross-Modal Adversarial Reprogramming for Data-Efficient Vulnerability Detection. *Information Sciences*. 2025, 686:121370 (中科院一区)
   
 - `Zhenzhou Tian`, Yuchen Gong, Chenhao Chang, Jiaze Sun, Yanping Chen, and Lingwei Chen. An Empirical Study on the Divergence of Differently-Sourced LLVM IRs. *Journal of Computer Languages*. 2024.
   
