@@ -36,7 +36,7 @@ I'm an associate professor in the School of Computer Science, Xi'an University o
 
 ### Journal
 ---
-- `Zhenzhou Tian`, Rui Qiu, Yudong Teng, Jiaze Sun, Yanping Chen, and Lingwei Chen. HardVD: High-Capacity Cross-Modal Adversarial Reprogramming for Data-Efficient Vulnerability Detection. *Journal of Systems and Software*. 2025. (CCF B)
+- `Zhenzhou Tian`, Rui Qiu, Yudong Teng, Jiaze Sun, Yanping Chen, and Lingwei Chen. Towards Cost-Efficient Vulnerability Detection with Cross-Modal Adversarial Reprogramming. *Journal of Systems and Software*. 2025. (CCF B)
 
 - `Zhenzhou Tian`, Haojiang Li, Hanlin Sun, Yanping Chen, and Lingwei Chen. HardVD: High-Capacity Cross-Modal Adversarial Reprogramming for Data-Efficient Vulnerability Detection. *Information Sciences*. 2025, 686:121370. (CCF B)
 
