@@ -55,9 +55,9 @@ redirect_from:
 
 ### 期刊
 ---
-- `Zhenzhou Tian`, Rui Qiu, Yudong Teng, Jiaze Sun, Yanping Chen, and Lingwei Chen. Towards Cost-Efficient Vulnerability Detection with Cross-Modal Adversarial Reprogramming. *Journal of Systems and Software*. 2025. (CCF B)
+- `Zhenzhou Tian`, Rui Qiu, Yudong Teng, Jiaze Sun, Yanping Chen, and Lingwei Chen. Towards Cost-Efficient Vulnerability Detection with Cross-Modal Adversarial Reprogramming. *Journal of Systems and Software*. 2025: 112365. (CCF B)
 
-- `Zhenzhou Tian`, Haojiang Li, Hanlin Sun, Yanping Chen, and Lingwei Chen. HardVD: High-Capacity Cross-Modal Adversarial Reprogramming for Data-Efficient Vulnerability Detection. *Information Sciences*. 2025, 686:121370 (中科院一区)
+- `Zhenzhou Tian`, Haojiang Li, Hanlin Sun, Yanping Chen, and Lingwei Chen. HardVD: High-Capacity Cross-Modal Adversarial Reprogramming for Data-Efficient Vulnerability Detection. *Information Sciences*. 2025, 686:121370. (中科院一区)
 
 - `Zhenzhou Tian`, Yuchen Gong, Chenhao Chang, Jiaze Sun, Yanping Chen, and Lingwei Chen. An Empirical Study on the Divergence of Differently-Sourced LLVM IRs. *Journal of Computer Languages*. 2024, 81: 101289.
 
