@@ -56,7 +56,7 @@ redirect_from:
 ### 期刊
 ---
 - `Zhenzhou Tian`, Yudong Teng, Xianqun Ke, Yanping Chen, and Lingwei Chen. SolBERT: Advancing Solidity Smart Contract Similarity Analysis via Self-Supervised
-Pre-Training and Contrastive Fine-Tuning. * Information and Software Technology*. 2025: . (CCF B)
+Pre-Training and Contrastive Fine-Tuning. *Information and Software Technology*. 2025: . (CCF B)
 
 - `Zhenzhou Tian`, Rui Qiu, Yudong Teng, Jiaze Sun, Yanping Chen, and Lingwei Chen. Towards Cost-Efficient Vulnerability Detection with Cross-Modal Adversarial Reprogramming. *Journal of Systems and Software*. 2025: 112365. (CCF B)
 
