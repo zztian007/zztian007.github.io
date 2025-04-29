@@ -55,6 +55,9 @@ redirect_from:
 
 ### 期刊
 ---
+- `Zhenzhou Tian`, Yudong Teng, Xianqun Ke, Yanping Chen, and Lingwei Chen. SolBERT: Advancing Solidity Smart Contract Similarity Analysis via Self-Supervised
+Pre-Training and Contrastive Fine-Tuning. * Information and Software Technology*. 2025: . (CCF B)
+
 - `Zhenzhou Tian`, Rui Qiu, Yudong Teng, Jiaze Sun, Yanping Chen, and Lingwei Chen. Towards Cost-Efficient Vulnerability Detection with Cross-Modal Adversarial Reprogramming. *Journal of Systems and Software*. 2025: 112365. (CCF B)
 
 - `Zhenzhou Tian`, Haojiang Li, Hanlin Sun, Yanping Chen, and Lingwei Chen. HardVD: High-Capacity Cross-Modal Adversarial Reprogramming for Data-Efficient Vulnerability Detection. *Information Sciences*. 2025, 686:121370. (中科院一区)
@@ -173,7 +176,7 @@ redirect_from:
 <span class='anchor' id='-xsfw'></span>
 
 # 🏛️ 学术服务
-- PC Member: ISSRE (2021-2024), SEKE (2020-2024), ICA3PP
+- PC Member: ISSRE (2021-2025), SEKE (2020-2025), ICA3PP
 - 审稿人: TIFS, TSE, ToSEM, TDSC, ToR, JSS, ASEJ, ESE, IST, JSA, ESWA, IJSEKE, Frontiers of Computer Science, Neurocomputing, Mathematics and Computers in Simulation, SEKE, ISSRE, 信息安全学报，计算机科学, 信息网络安全
 
 
