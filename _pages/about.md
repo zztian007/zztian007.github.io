@@ -215,4 +215,10 @@ Pre-Training and Contrastive Fine-Tuning. *Information and Software Technology*.
 - 王宁宁（中国山西联通）
 - 冯桢（华为）
 
+<span id="site_pv">
+	  本站总访问量<span id="site_pv"></span>次
+	  本站访客数<span id="site_uv"></span>人次
+	  本文总阅读量<span id="page_pv"></span>次
+ </span>
+
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=DDT6mvG6VlcE8DF1mVi2xHzsa78VCQ-uYUpUWbtFGEo&cl=ffffff&w=a"></script>
