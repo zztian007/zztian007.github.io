@@ -33,6 +33,7 @@ redirect_from:
 
 <span class='anchor' id='-xl'></span>
 # 🔥 News
+- 2025.05: 🎉<a href="https://gr.xupt.edu.cn/info/1077/8880.htm">获评“千喜杯”第四届“五好”研究生团队</a>
 - 2025.01: 🎉<a href="https://mp.weixin.qq.com/s/f6_NUyjCP_X6C6lFqlkfew">获评《信息网络安全》2024年度优秀审稿人</a>
 - 2024.11: 🎉<a href="https://mp.weixin.qq.com/s/coyNqfvZhNJDdztS-OEloA">祝贺学生李明浩带领的团队获第二十一届中国研究生数学建模竞赛华为专项一等奖</a>
 - 2024.07: 🎉祝贺学生王佳乐带领的团队项目获研电赛西北赛区二等奖。
@@ -191,6 +192,13 @@ Pre-Training and Contrastive Fine-Tuning. *Information and Software Technology*.
 
 
 ## 🍷🍺🍸 毕业生
+  **2022届**
+- 张创（腾讯云）
+- 李濠江（国奖）（西安汉得）
+- 邱瑞（优秀硕士学位论文）（中国移动）
+- 宫雨晨（西安华讯）
+- 常辰昊（陕西恒巨软件）
+
   **2021届**
 - 王凡凡（优秀硕士学位论文）（中国移动）
 - 柯贤群（优秀硕士学位论文）（西安博达软件）
