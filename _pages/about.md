@@ -64,7 +64,7 @@ Pre-Training and Contrastive Fine-Tuning. *Information and Software Technology*.
 
 - `Zhenzhou Tian`, Haojiang Li, Hanlin Sun, Yanping Chen, and Lingwei Chen. HardVD: High-Capacity Cross-Modal Adversarial Reprogramming for Data-Efficient Vulnerability Detection. *Information Sciences*. 2025, 686:121370. (中科院一区)
 
-- `Zhenzhou Tian`, Yuchen Gong, Chenhao Chang, Jiaze Sun, Yanping Chen, and Lingwei Chen. An Empirical Study on the Divergence of Differently-Sourced LLVM IRs. *Journal of Computer Languages*. 2024, 81: 101289.
+- `Zhenzhou Tian`, Yuchen Gong, Chenhao Chang, Jiaze Sun, Yanping Chen, and Lingwei Chen. An Empirical Study on the Divergence of Differently-Sourced LLVM IRs. *Journal of Computer Languages*. 2024, 81: 101289. (<font color='red'>Best Paper Award</font>)
 
 - `Zhenzhou Tian`, Fanfan Wang, Yanping Chen, and Lingwei Chen. Differential Testing Solidity Compiler through Deep Contract Manipulation and Mutation. *Software Quality Journal*. 2024, 32, 765–790.
 
