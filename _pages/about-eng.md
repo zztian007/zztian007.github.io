@@ -36,6 +36,8 @@ I'm an associate professor in the School of Computer Science, Xi'an University o
 
 ### Journal
 ---
+- `Zhenzhou Tian`, Minghao Li, Jiaze Sun, Yanping Chen, and Lingwei Chen. Enhancing Vulnerability Detection by Fusing Code Semantic Features with LLM-Generated Explanations. *Information Fusion*. 2025. (JCR 1)
+
 - `Zhenzhou Tian`, Yudong Teng, Xianqun Ke, Yanping Chen, and Lingwei Chen. SolBERT: Advancing Solidity Smart Contract Similarity Analysis via Self-Supervised Pre-Training and Contrastive Fine-Tuning. * Information and Software Technology*. 2025. (CCF B)
 
 - `Zhenzhou Tian`, Rui Qiu, Yudong Teng, Jiaze Sun, Yanping Chen, and Lingwei Chen. Towards Cost-Efficient Vulnerability Detection with Cross-Modal Adversarial Reprogramming. *Journal of Systems and Software*. 2025: 112365. (CCF B)
@@ -129,5 +131,5 @@ I'm an associate professor in the School of Computer Science, Xi'an University o
 
 # 🏛️ Academic Service
 - PC Member: ISSRE (2021-2025), SEKE (2020-2025), ICA3PP (2017)
-- Reviewer: TIFS, TSE, ToSEM, TDSC, ToR, JSS, ASEJ, ESE, IST, JSA, ESWA, IJSEKE, Frontiers of Computer Science, Neurocomputing, Mathematics and Computers in Simulation, SEKE, ISSRE, Journal of Cyber Security，Computer Science, Netinfo Security
+- Reviewer: TIFS, TSE, ToSEM, TDSC, ToR, JSS, ASEJ, EMSE, IST, JSA, ESWA, IJSEKE, Frontiers of Computer Science, Neurocomputing, Mathematics and Computers in Simulation, SEKE, ISSRE, Journal of Cyber Security，Computer Science, Netinfo Security
   
