@@ -59,8 +59,7 @@ redirect_from:
 ---
 - `Zhenzhou Tian`, Minghao Li, Jiaze Sun, Yanping Chen, and Lingwei Chen. Enhancing Vulnerability Detection by Fusing Code Semantic Features with LLM-Generated Explanations. *Information Fusion*. 2025. (中科院一区)
 
-- `Zhenzhou Tian`, Yudong Teng, Xianqun Ke, Yanping Chen, and Lingwei Chen. SolBERT: Advancing Solidity Smart Contract Similarity Analysis via Self-Supervised
-Pre-Training and Contrastive Fine-Tuning. *Information and Software Technology*. 2025: . (CCF B)
+- `Zhenzhou Tian`, Yudong Teng, Xianqun Ke, Yanping Chen, and Lingwei Chen. SolBERT: Advancing Solidity Smart Contract Similarity Analysis via Self-Supervised Pre-Training and Contrastive Fine-Tuning. *Information and Software Technology*. 2025: . (CCF B)
 
 - `Zhenzhou Tian`, Rui Qiu, Yudong Teng, Jiaze Sun, Yanping Chen, and Lingwei Chen. Towards Cost-Efficient Vulnerability Detection with Cross-Modal Adversarial Reprogramming. *Journal of Systems and Software*. 2025: 112365. (CCF B)
 
@@ -169,6 +168,7 @@ Pre-Training and Contrastive Fine-Tuning. *Information and Software Technology*.
 <span class='anchor' id='-ryjx'></span>
 
 # 🏅 荣誉奖项
+- COLA 2024 `最佳论文奖`. "An Empirical Study on the Divergence of Differently-Sourced LLVM IRs"
 - 2024年度陕西高等学校科学技术研究优秀成果奖`二等奖`
 - 2022年教育部高等学校科学研究优秀成果奖（科学技术）`自然科学奖一等奖`
 - 2017年中国通信学会科学技术奖`科技进步奖三等奖`
