@@ -33,7 +33,7 @@ redirect_from:
 
 <span class='anchor' id='-xl'></span>
 # 🔥 News
-- 2025.06: 🎉祝贺学生论文《An Empirical Study on Divergence of Differently-Sourced LLVM IRs》获COLA 2024最佳论文奖。
+- 2025.06: 🎉<a href="https://www.sciencedirect.com/journal/journal-of-computer-languages/about/news/2024-journal-of-computer-languages-best-paper-award">祝贺学生论文《An Empirical Study on Divergence of Differently-Sourced LLVM IRs》获COLA 2024最佳论文奖。
 - 2025.05: 🎉<a href="https://gr.xupt.edu.cn/info/1077/8880.htm">获评“千喜杯”第四届“五好”研究生团队</a>
 - 2025.01: 🎉<a href="https://mp.weixin.qq.com/s/f6_NUyjCP_X6C6lFqlkfew">获评《信息网络安全》2024年度优秀审稿人</a>
 - 2024.11: 🎉<a href="https://mp.weixin.qq.com/s/coyNqfvZhNJDdztS-OEloA">祝贺学生李明浩带领的团队获第二十一届中国研究生数学建模竞赛华为专项一等奖</a>
@@ -57,6 +57,8 @@ redirect_from:
 
 ### 期刊
 ---
+- `Zhenzhou Tian`, Minghao Li, Jiaze Sun, Yanping Chen, and Lingwei Chen. Enhancing Vulnerability Detection by Fusing Code Semantic Features with LLM-Generated Explanations. *Information Fusion*. 2025. (中科院一区)
+
 - `Zhenzhou Tian`, Yudong Teng, Xianqun Ke, Yanping Chen, and Lingwei Chen. SolBERT: Advancing Solidity Smart Contract Similarity Analysis via Self-Supervised
 Pre-Training and Contrastive Fine-Tuning. *Information and Software Technology*. 2025: . (CCF B)
 
@@ -187,9 +189,9 @@ Pre-Training and Contrastive Fine-Tuning. *Information and Software Technology*.
 # 🌲 团队
 
 ## 🌱 在读研究生
-- **研三:**      邱瑞，常辰昊，宫雨晨，李濠江（国奖），张创
-- **研二:**      赵佳乐，赵江巍，田新茹，滕玉东，李明浩，向洋
-- **研一:**      于泽辉，杨培轩，王梓琳，屈鹏锐，惠云蓬
+- **研三:**   赵佳乐，赵江巍，田新茹，滕玉东，李明浩，向洋
+- **研二:**   于泽辉，杨培轩，王梓琳，屈鹏锐，惠云蓬
+- **研一:**   Coming  
 
 
 ## 🍷🍺🍸 毕业生
