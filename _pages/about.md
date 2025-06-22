@@ -181,7 +181,7 @@ Pre-Training and Contrastive Fine-Tuning. *Information and Software Technology*.
 
 # 🏛️ 学术服务
 - PC Member: ISSRE (2021-2025), SEKE (2020-2025), ICA3PP
-- 审稿人: TIFS, TSE, ToSEM, TDSC, ToR, JSS, ASEJ, ESE, IST, JSA, ESWA, IJSEKE, Frontiers of Computer Science, Neurocomputing, Mathematics and Computers in Simulation, SEKE, ISSRE, 信息安全学报，计算机科学, 信息网络安全
+- 审稿人: TIFS, TSE, ToSEM, TDSC, ToR, JSS, ASEJ, EMSE, IST, JSA, ESWA, IJSEKE, Frontiers of Computer Science, Neurocomputing, Mathematics and Computers in Simulation, SEKE, ISSRE, 信息安全学报，计算机科学, 信息网络安全
 
 
 <span class='anchor' id='-team'></span>
