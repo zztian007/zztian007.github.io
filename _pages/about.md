@@ -19,7 +19,7 @@ redirect_from:
 
 博士，副教授，计算机科学与技术、软件工程、电子信息（计算机技术、大数据技术与工程）方向硕士生导师，CCF高级会员。主要从事AI软件工程和软件安全领域的研究工作，研究兴趣包括软件供应链安全、漏洞挖掘、代码相似性检测、程序理解、恶意软件分析、机器及深度学习在程序分析方面的应用等。
 
-获2022年教育部自然科学奖一等奖、2024年陕西高校科学技术研究优秀成果二等奖、2017年中国通信学会科技进步三等奖。先后主持国家自然科学基金2项、陕西省自然科学基础研究计划2项；作为核心成员参与国家自然科学基金重点、面上及青年项目，以及陕西高校青年创新团队等国家及省部级课题多项。在TSE、TIFS、ICSE、JSS、计算机研究与发展、ESWA等软件工程和信息安全领域顶级期刊和会议上发表论文40余篇<a href='https://scholar.google.com/citations?user=Rz5GXAoAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>，授权中国发明专利10余项、美国专利1项。获COLA 2024、SEKE 2020、ISSRE 2016最佳论文奖、SEKE 2014最佳Demo奖等。获评校研究生“十佳导师”，指导学生获“互联网+”省奖、数学建模华为专项一等奖、网络安全创新大赛全国二等奖、“研究生五好团队”、国家奖学金、校优秀毕业生、优秀研究生毕业论文等。
+获2022年教育部自然科学奖一等奖、2024年陕西高校科学技术研究优秀成果二等奖、2017年中国通信学会科技进步三等奖。先后主持国家自然科学基金2项、陕西省自然科学基础研究计划2项；作为核心成员参与国家自然科学基金重点、面上及青年项目，以及陕西高校青年创新团队等国家及省部级课题多项。在TSE、TIFS、ICSE、JSS、计算机研究与发展、ESWA等软件工程和信息安全领域顶级期刊和会议上发表论文40余篇<a href='https://scholar.google.com/citations?user=Rz5GXAoAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>，授权中国发明专利10余项、美国专利1项。获COLA 2024、SEKE 2020、ISSRE 2016最佳论文奖、SEKE 2014最佳Demo奖等。获评校“四有好老师”、研究生“十佳导师”，指导学生获“互联网+”省奖、数学建模华为专项一等奖、网络安全创新大赛全国二等奖、“研究生五好团队”、国家奖学金、校优秀毕业生、优秀研究生毕业论文等。
 
 欢迎编程能力强，基础扎实，善于思考和钻研，认真负责的硕士生报考，同时欢迎优秀的本科实习生参与科研项目实践。
 邮箱: tianzhenzhou@xupt.edu.cn
@@ -57,7 +57,7 @@ redirect_from:
 
 ### 期刊
 ---
-- `Zhenzhou Tian`, Minghao Li, Jiaze Sun, Yanping Chen, and Lingwei Chen. Enhancing Vulnerability Detection by Fusing Code Semantic Features with LLM-Generated Explanations. *Information Fusion*. 2025. (中科院一区)
+- `Zhenzhou Tian`, Minghao Li, Jiaze Sun, Yanping Chen, and Lingwei Chen. Enhancing Vulnerability Detection by Fusing Code Semantic Features with LLM-Generated Explanations. *Information Fusion*. 2025：103450. (中科院一区)
 
 - `Zhenzhou Tian`, Yudong Teng, Xianqun Ke, Yanping Chen, and Lingwei Chen. SolBERT: Advancing Solidity Smart Contract Similarity Analysis via Self-Supervised Pre-Training and Contrastive Fine-Tuning. *Information and Software Technology*. 2025: 107766. (CCF B)
 
@@ -191,7 +191,7 @@ redirect_from:
 ## 🌱 在读研究生
 - **研三:**   赵佳乐，赵江巍，田新茹，滕玉东，李明浩，向洋
 - **研二:**   于泽辉，杨培轩，王梓琳，屈鹏锐，惠云蓬
-- **研一:**   Coming  
+- **研一:**   谢美丹，常惠波，王杰，赵磊，周渊，刘星 
 
 
 ## 🍷🍺🍸 毕业生
