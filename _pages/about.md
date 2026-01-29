@@ -57,7 +57,7 @@ redirect_from:
 
 ### 期刊
 ---
-- `Zhenzhou Tian`, Jiale Zhao, Ming Fan, Jiaze Sun, Yanping Chen, and Lingwei Chen. When Fixes Teach: Repair-Aware Contrastive Learning for Optimization-Resilient Binary Vulnerability Detection. *Journal of Systems Architecture*. 2026. (CCF B)
+- `Zhenzhou Tian`, Jiale Zhao, Ming Fan, Jiaze Sun, Yanping Chen, and Lingwei Chen. When Fixes Teach: Repair-Aware Contrastive Learning for Optimization-Resilient Binary Vulnerability Detection. *Journal of Systems Architecture*. 2026, 173(103722). (CCF B)
 
 - `Zhenzhou Tian`, Chuang Zhang, Yunpeng Hui, Jiaze Sun, Yanping Chen, and Lingwei Chen. Robust vulnerability detection with limited data via training-efficient adversarial reprogramming. *Automated Software Engineering*. 2026, 33(47). (CCF B)
 
