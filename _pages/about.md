@@ -33,7 +33,9 @@ redirect_from:
 
 <span class='anchor' id='-xl'></span>
 # 🔥 News
-- 2025.06: 🎉<a href="https://www.sciencedirect.com/journal/journal-of-computer-languages/about/news/2024-journal-of-computer-languages-best-paper-award">祝贺学生论文《An Empirical Study on Divergence of Differently-Sourced LLVM IRs》获COLA 2024最佳论文奖。
+- 2026.01: 获评《信息网络安全》2025年度优秀审稿人
+- 2025.12: 🎉<a href="https://www.arocmag.cn/info/announce/OutstandingReviewer-2025">获评《计算机应用研究》2025年度优秀审稿人</a>
+- 2025.06: 🎉<a href="https://www.sciencedirect.com/journal/journal-of-computer-languages/about/news/2024-journal-of-computer-languages-best-paper-award">祝贺学生论文《An Empirical Study on Divergence of Differently-Sourced LLVM IRs》获COLA 2024最佳论文奖。</a>
 - 2025.05: 🎉<a href="https://gr.xupt.edu.cn/info/1077/8880.htm">获评“千喜杯”第四届“五好”研究生团队</a>
 - 2025.01: 🎉<a href="https://mp.weixin.qq.com/s/f6_NUyjCP_X6C6lFqlkfew">获评《信息网络安全》2024年度优秀审稿人</a>
 - 2024.11: 🎉<a href="https://mp.weixin.qq.com/s/coyNqfvZhNJDdztS-OEloA">祝贺学生李明浩带领的团队获第二十一届中国研究生数学建模竞赛华为专项一等奖</a>
@@ -185,7 +187,7 @@ redirect_from:
 
 # 🏛️ 学术服务
 - PC Member: ISSRE (2021-2025), SEKE (2020-2025), ICA3PP
-- 审稿人: TIFS, TSE, ToSEM, TDSC, ToR, JSS, ASEJ, EMSE, IST, JSA, ESWA, IJSEKE, Frontiers of Computer Science, Neurocomputing, Information Processing & Management, Mathematics and Computers in Simulation, SEKE, ISSRE, 信息安全学报，计算机科学, 信息网络安全
+- 审稿人: TIFS, TSE, ToSEM, TDSC, ToR, JSS, ASEJ, EMSE, IST, JSA, ESWA, IJSEKE, Frontiers of Computer Science, Neurocomputing, Information Processing & Management, Mathematics and Computers in Simulation, SEKE, ISSRE, 信息安全学报, 计算机科学, 信息网络安全, 计算机应用研究
 
 
 <span class='anchor' id='-team'></span>
