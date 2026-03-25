@@ -63,7 +63,7 @@ redirect_from:
 
 - `Zhenzhou Tian`, Chuang Zhang, Yunpeng Hui, Jiaze Sun, Yanping Chen, and Lingwei Chen. Robust vulnerability detection with limited data via training-efficient adversarial reprogramming. *Automated Software Engineering*. 2026, 33(47). (CCF B)
 
-- `Zhenzhou Tian`, Minghao Li, Jiaze Sun, Yanping Chen, and Lingwei Chen. Enhancing Vulnerability Detection by Fusing Code Semantic Features with LLM-Generated Explanations. *Information Fusion*. 2025：103450. (中科院一区)
+- `Zhenzhou Tian`, Minghao Li, Jiaze Sun, Yanping Chen, and Lingwei Chen. Enhancing Vulnerability Detection by Fusing Code Semantic Features with LLM-Generated Explanations. *Information Fusion*. 2026：103450. (中科院一区)
 
 - `Zhenzhou Tian`, Yudong Teng, Xianqun Ke, Yanping Chen, and Lingwei Chen. SolBERT: Advancing Solidity Smart Contract Similarity Analysis via Self-Supervised Pre-Training and Contrastive Fine-Tuning. *Information and Software Technology*. 2025: 107766. (CCF B)
 
@@ -195,7 +195,7 @@ redirect_from:
 # 🌲 团队
 
 ## 🌱 在读研究生
-- **研三:**   赵佳乐，赵江巍，田新茹，滕玉东，李明浩，向洋
+- **研三:**   赵佳乐，赵江巍，田新茹，滕玉东（国奖），李明浩（国奖），向洋
 - **研二:**   于泽辉，杨培轩，王梓琳，屈鹏锐，惠云蓬
 - **研一:**   谢美丹，常惠波，王杰，赵磊，周渊，刘星 
 
