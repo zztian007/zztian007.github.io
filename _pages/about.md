@@ -187,7 +187,7 @@ redirect_from:
 
 # 🏛️ 学术服务
 - PC Member: ISSRE (2021-2025), SEKE (2020-2025), ICA3PP
-- 审稿人: TIFS, TSE, ToSEM, TDSC, ToR, JSS, ASEJ, EMSE, IST, JSA, ESWA, IJSEKE, Frontiers of Computer Science, Neurocomputing, Information Processing & Management, Mathematics and Computers in Simulation, SEKE, ISSRE, 信息安全学报, 计算机科学, 信息网络安全, 计算机应用研究
+- 审稿人: TIFS, TSE, ToSEM, TDSC, ToR, JSS, ASEJ, EMSE, IST, JSA, SQJ, ESWA, IPM, IJSEKE, Frontiers of Computer Science, Neurocomputing, Mathematics and Computers in Simulation, SEKE, ISSRE, 信息安全学报, 计算机科学, 信息网络安全, 计算机应用研究
 
 
 <span class='anchor' id='-team'></span>
